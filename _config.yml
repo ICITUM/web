@@ -1,0 +1,39 @@
+# ----------- CONFIGURABLE START -----------
+title:            "ICITUM|FullStack|Inddie Developer|jekyll blog|GitHub blog"
+description:      "Full Stack Inddie Developer|Welcome to ICITUM"
+baseurl:          "/web"
+url:              "https://icitum.github.io" # Domain name
+signoff:          "Joe" # Your name
+facebook_appid:   #icitum
+google_analytics: UA-101222464-1
+share:            true 
+# Paging
+paginate: 15
+paginate_path: "liberxuepage:num"
+gems: [jekyll-paginate]
+links:
+  - name:         Home
+    url:          /
+    external:     false
+  - name:         Book
+    url:          /book/
+    external:     false
+  - name:         Road
+    url:          /road/
+    external:     false
+  - name:         Archives
+    url:          /archives/
+    external:     false
+  - name:         Tags
+    url:          /tags/
+    external:     false
+  - name:         About
+    url:          /about/
+    external:     false
+# ------------ CONFIGURABLE END ------------
+
+#permalink:        /:categories/:title.html
+permalink: /:year/:month/:day/:title.html
+defaults:
+  - values:
+      layout: "default"
