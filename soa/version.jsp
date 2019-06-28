@@ -1,1 +1,1 @@
-{"app":"0.0.8", "lotto":"864"}
+{"versionName":"0.0.8", "versionCode":8, "versionLotto":864}
