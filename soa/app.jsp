@@ -1,1 +1,1 @@
-{"isGithubUri":false, "uriPopupStartup":"", "uriPopupUpdate":"", "strPopupStartup":"", "strPopupUpdate":""}
+{"isGithubUri":false, "uriPopupStartup":"", "uriPopupUpdate":"", "strPopupStartup":"", "strPopupUpdate":"", "supportedLanguages":["en", "ko"]}
