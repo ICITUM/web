@@ -1,0 +1,13 @@
+[
+{"content":"내용","examples":["1","2","3","4","5"],"no":1,"remarks":"비고","weight":1.0},
+{"content":"내용","examples":["1","2","3","4","5"],"no":2,"remarks":"비고","weight":1.0},
+{"content":"내용","examples":["1","2","3","4","5"],"no":3,"remarks":"비고","weight":1.0},
+{"content":"내용","examples":["1","2","3","4","5"],"no":4,"remarks":"비고","weight":1.0},
+{"content":"내용","examples":["1","2","3","4","5"],"no":5,"remarks":"비고","weight":1.0},
+{"content":"내용","examples":["1","2","3","4","5"],"no":6,"remarks":"비고","weight":1.0},
+{"content":"내용","examples":["1","2","3","4","5"],"no":7,"remarks":"비고","weight":1.0},
+{"content":"내용","examples":["1","2","3","4","5"],"no":8,"remarks":"비고","weight":1.0},
+{"content":"내용","examples":["1","2","3","4","5"],"no":9,"remarks":"비고","weight":1.0},
+{"content":"내용","examples":["1","2","3","4","5"],"no":10,"remarks":"비고","weight":1.0},
+{"content":"테스트","examples":["1","2","3","4","5"],"no":999,"remarks":"테스트","weight":0.0}
+]
