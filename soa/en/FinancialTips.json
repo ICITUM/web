@@ -1,8 +1,8 @@
 [
-{"id":0,"isVisible":true,"key":-1,"no":1,"title":"Bank","type":"list","webContentListUrl":"https://icitum.github.io/web/soa-bank/ko/ContentList.json"},
-{"id":0,"isVisible":true,"key":-1,"no":2,"title":"Card","type":"list","webContentListUrl":"https://icitum.github.io/web/soa-bank/ko/ContentList.json"},
-{"id":0,"isVisible":true,"key":-1,"no":3,"title":"Insurance","type":"list","webContentListUrl":"https://icitum.github.io/web/soa-bank/ko/ContentList.json"},
-{"id":0,"isVisible":true,"key":-1,"no":4,"title":"Bank","type":"list","webContentListUrl":"https://icitum.github.io/web/soa-bank/ko/ContentList.json"},
-{"id":0,"isVisible":true,"key":-1,"no":5,"title":"Bank","type":"list","webContentListUrl":"https://icitum.github.io/web/soa-bank/ko/ContentList.json"},
-{"id":0,"isVisible":true,"key":-1,"no":6,"title":"Bank","type":"list","webContentListUrl":"https://icitum.github.io/web/soa-bank/ko/ContentList.json"}
+{"id":0,"isVisible":true,"key":-1,"no":1,"title":"Bank","type":"list","webContentListUrl":"https://icitum.github.io/web/soa-bank/en/ContentList.json"},
+{"id":0,"isVisible":true,"key":-1,"no":2,"title":"Card","type":"list","webContentListUrl":"https://icitum.github.io/web/soa-bank/en/ContentList.json"},
+{"id":0,"isVisible":true,"key":-1,"no":3,"title":"Insurance","type":"list","webContentListUrl":"https://icitum.github.io/web/soa-bank/en/ContentList.json"},
+{"id":0,"isVisible":true,"key":-1,"no":4,"title":"Bank","type":"list","webContentListUrl":"https://icitum.github.io/web/soa-bank/en/ContentList.json"},
+{"id":0,"isVisible":true,"key":-1,"no":5,"title":"Bank","type":"list","webContentListUrl":"https://icitum.github.io/web/soa-bank/en/ContentList.json"},
+{"id":0,"isVisible":true,"key":-1,"no":6,"title":"Bank","type":"list","webContentListUrl":"https://icitum.github.io/web/soa-bank/en/ContentList.json"}
 ]
