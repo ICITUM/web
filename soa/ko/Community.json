@@ -1,4 +1,4 @@
 [
-{"id":0,"isVisible":true,"key":-1,"no":1,"title":"Notice","type":"list","webContentListUrl":"https://icitum.github.io/web/soa-notice/ko/ContentList.json"},
-{"id":0,"isVisible":true,"key":-1,"no":2,"title":"Board","type":"html","webContentListUrl":"https://m.cafe.naver.com/secretaryofassets"}
+{"id":0,"isVisible":true,"key":-1,"no":1,"title":"공지사항","type":"list","webContentListUrl":"https://icitum.github.io/web/soa-notice/ko/ContentList.json"},
+{"id":0,"isVisible":true,"key":-1,"no":2,"title":"게시판","type":"html","webContentListUrl":"https://m.cafe.naver.com/secretaryofassets"}
 ]
