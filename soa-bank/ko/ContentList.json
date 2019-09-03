@@ -3,9 +3,9 @@
 {"contentUrl":"https://icitum.github.io/web/soa-bank/test.md","footerSize":0.0,"headerSize":0.0,"iconUrl":"https://icitum.github.io/web/soa-bank/icon.png","isVisible":true,"no":1,"summary":"Summary","timestamp":201908301200,"title":"Test 1","type":"markdown"},
 {"contentUrl":"https://icitum.github.io/web/soa-bank/test.md","footerSize":0.0,"headerSize":0.0,"isVisible":true,"no":2,"summary":"Summary","timestamp":201908301200,"title":"Test 2","type":"markdown"},
 {"footerSize":0.0,"headerSize":0.0,"isVisible":true,"no":0,"timestamp":0,"type":"separator"},
-{"bannerImageUrl":"Banner","bannerTitle":"https://icitum.github.io/web/soa-bank/icon.png","footerSize":0.0,"headerSize":0.0,"isVisible":true,"no":0,"timestamp":0,"type":"banner"},
-{"bannerTitle":"https://icitum.github.io/web/soa-bank/icon.png","footerSize":0.0,"headerSize":0.0,"isVisible":true,"no":0,"timestamp":0,"type":"banner"},
-{"bannerTitle":"https://www.google.co.kr/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png","footerSize":0.0,"headerSize":0.0,"isVisible":true,"no":0,"timestamp":0,"type":"banner"},
-{"bannerImageUrl":"Banner","footerSize":0.0,"headerSize":0.0,"isVisible":true,"no":0,"timestamp":0,"type":"banner"},
+{"bannerImageUrl":"https://icitum.github.io/web/soa-bank/icon.png","bannerTitle":"Banner","footerSize":0.0,"headerSize":0.0,"isVisible":true,"no":0,"timestamp":0,"type":"banner"},
+{"bannerImageUrl":"https://icitum.github.io/web/soa-bank/icon.png","footerSize":0.0,"headerSize":0.0,"isVisible":true,"no":0,"timestamp":0,"type":"banner"},
+{"bannerImageUrl":"https://www.google.co.kr/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png","footerSize":0.0,"headerSize":0.0,"isVisible":true,"no":0,"timestamp":0,"type":"banner"},
+{"bannerImageUrl":"https://icitum.github.io/web/soa-bank/icon.png","footerSize":0.0,"headerSize":0.0,"isVisible":true,"no":0,"timestamp":0,"type":"banner"},
 {"footer":"Footer","footerBgColor":"#FF4169E1","footerColor":"#FFFFFFFF","footerSize":18.0,"headerSize":0.0,"isVisible":true,"no":0,"timestamp":0,"type":"footer"}
 ]
