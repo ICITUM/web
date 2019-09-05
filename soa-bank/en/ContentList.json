@@ -5,7 +5,7 @@
 {"footerSize":0.0,"headerSize":0.0,"isVisible":true,"no":0,"timestamp":0,"type":"separator"},
 {"bannerImageUrl":"https://icitum.github.io/web/soa-bank/icon.png","bannerTitle":"Banner","footerSize":0.0,"headerSize":0.0,"isVisible":true,"no":0,"timestamp":0,"type":"banner"},
 {"bannerImageUrl":"https://icitum.github.io/web/soa-bank/icon.png","footerSize":0.0,"headerSize":0.0,"isVisible":true,"no":0,"timestamp":0,"type":"banner"},
-{"bannerImageUrl":"https://www.google.co.kr/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png","footerSize":0.0,"headerSize":0.0,"isVisible":true,"no":0,"timestamp":0,"type":"banner"},
+{"bannerImageUrl":"https://www.google.co.kr/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png", "bannerUrl":"https://www.google.com/","footerSize":0.0,"headerSize":0.0,"isVisible":true,"no":0,"timestamp":0,"type":"banner"},
 {"bannerImageUrl":"https://icitum.github.io/web/soa-bank/icon.png","footerSize":0.0,"headerSize":0.0,"isVisible":true,"no":0,"timestamp":0,"type":"banner"},
 {"footer":"Footer","footerBgColor":"#FF4169E1","footerColor":"#FFFFFFFF","footerSize":18.0,"headerSize":0.0,"isVisible":true,"no":0,"timestamp":0,"type":"footer"}
 ]
