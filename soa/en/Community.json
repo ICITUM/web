@@ -1,4 +1,5 @@
 [
 {"id":0,"isVisible":true,"key":-1,"no":1,"title":"Notice","type":"list","webContentListUrl":"https://icitum.github.io/web/soa-notice/en/ContentList.json"},
-{"id":0,"isVisible":true,"key":-1,"no":2,"title":"Board","type":"html","webContentListUrl":"https://m.cafe.naver.com/secretaryofassets"}
+{"id":0,"isVisible":true,"key":-1,"no":2,"title":"Board","type":"html","webContentListUrl":"https://m.cafe.naver.com/NoticeList.nhn?search.clubid=29339006"},
+{"id":0,"isVisible":true,"key":-1,"no":2,"title":"Q&A","type":"html","webContentListUrl":"https://m.cafe.naver.com/ArticleList.nhn?search.clubid=29339006&search.menuid=6&search.boardtype=Q"}
 ]
