@@ -1,6 +1,6 @@
-{"isSelfFinancialTips":false, "isSelfCommunity":false, "isEnableCafe":true, 
+{"isSelfFinancialTips":false, "isSelfCommunity":false, "isEnableCafe":false, 
 "urlServer":"https://icitum.github.io/web/", 
-"urlNotice":"soa-notice/[]/ContentList.json", 
+"urlNotice":"https://icitum.github.io/web/soa-notice/[]/ContentList.json", 
 "urlQnA":"https://m.cafe.naver.com/ArticleList.nhn?search.clubid=29339006&search.menuid=6&search.boardtype=Q", 
 "urlPopupStartup":"", "urlPopupUpdate":"", "strPopupStartup":"", "strPopupUpdate":"", 
 "supportedLanguages":["en", "ko"]}
