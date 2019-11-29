@@ -6,4 +6,5 @@
 "urlUpdate":"", 
 "urlPopupStartupText":"", 
 "urlPopupUpdateText":"", 
+"urlsDynamic":["https://icitum.github.io/web/soa/[]/Dynamic.json", "https://icitum.github.io/web/soa/[]/Dynamic.json"], 
 "supportedLanguages":["en", "ko"]}
