@@ -5,6 +5,7 @@
 "urlQnA":"https://m.cafe.naver.com/ArticleList.nhn?search.clubid=29339006&search.menuid=6&search.boardtype=Q", 
 "urlUpdate":"", 
 "urlPopupStartupText":"", 
-"urlPopupUpdateText":"", 
-"urlsDynamic":["https://icitum.github.io/web/soa/[]/Dynamic.json", "https://icitum.github.io/web/soa/[]/Dynamic.json"], 
+"urlPopupUpdateText":"",  
+"urlDynamicPageTabTitles":"https://icitum.github.io/web/soa/[]/DynamicTabPageTitles.json", 
+"urlsDynamicTabPage":["https://icitum.github.io/web/soa/[]/DynamicTabPage.json", "https://icitum.github.io/web/soa/[]/DynamicTabPage.json"], 
 "supportedLanguages":["en", "ko"]}
