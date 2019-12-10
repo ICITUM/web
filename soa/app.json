@@ -6,7 +6,6 @@
 "urlUpdate":"", 
 "urlPopupStartupText":"", 
 "urlPopupUpdateText":"",  
-"idsDynamicTabPage":[12345678901, 12345678902], 
 "urlDynamicTabPageTitles":"https://icitum.github.io/web/soa/[]/DynamicTabPageTitles.json", 
 "urlsDynamicTabPage":["https://icitum.github.io/web/soa/[]/DynamicTabPage.json", "https://icitum.github.io/web/soa/[]/DynamicTabPage.json"], 
 "supportedLanguages":["en", "ko"]}
