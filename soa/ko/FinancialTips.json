@@ -1,8 +1,8 @@
 [
-{"id":-1,"isVisible":true,"key":-1,"no":1,"title":"은행","type":"list","webContentListUrl":"https://icitum.github.io/web/soa-bank/ko/ContentList.json"},
-{"id":-1,"isVisible":true,"key":-1,"no":2,"title":"카드","type":"list","webContentListUrl":"https://icitum.github.io/web/soa-card/ko/ContentList.json"},
-{"id":-1,"isVisible":true,"key":-1,"no":3,"title":"보험","type":"list","webContentListUrl":"https://icitum.github.io/web/soa-insurance/ko/ContentList.json"},
-{"id":-1,"isVisible":true,"key":-1,"no":4,"title":"대출","type":"list","webContentListUrl":"https://icitum.github.io/web/soa-loan/ko/ContentList.json"},
-{"id":-1,"isVisible":true,"key":-1,"no":5,"title":"주식","type":"list","webContentListUrl":"https://icitum.github.io/web/soa-stock/ko/ContentList.json"},
-{"id":-1,"isVisible":true,"key":-1,"no":6,"title":"부동산","type":"list","webContentListUrl":"https://icitum.github.io/web/soa-real-estate/ko/ContentList.json"}
+{"id":-1,"visibility":"debug","key":-1,"no":1,"title":"은행","type":"list","webContentListUrl":"https://icitum.github.io/web/soa-bank/ko/ContentList.json"},
+{"id":-1,"visibility":"debug","key":-1,"no":2,"title":"카드","type":"list","webContentListUrl":"https://icitum.github.io/web/soa-card/ko/ContentList.json"},
+{"id":-1,"visibility":"debug","key":-1,"no":3,"title":"보험","type":"list","webContentListUrl":"https://icitum.github.io/web/soa-insurance/ko/ContentList.json"},
+{"id":-1,"visibility":"debug","key":-1,"no":4,"title":"대출","type":"list","webContentListUrl":"https://icitum.github.io/web/soa-loan/ko/ContentList.json"},
+{"id":-1,"visibility":"debug","key":-1,"no":5,"title":"주식","type":"list","webContentListUrl":"https://icitum.github.io/web/soa-stock/ko/ContentList.json"},
+{"id":-1,"visibility":"debug","key":-1,"no":6,"title":"부동산","type":"list","webContentListUrl":"https://icitum.github.io/web/soa-real-estate/ko/ContentList.json"}
 ]

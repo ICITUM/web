@@ -1,8 +1,8 @@
 [
-{"id":-1,"isVisible":true,"key":-1,"no":1,"title":"Bank","type":"list","webContentListUrl":"https://icitum.github.io/web/soa-bank/en/ContentList.json"},
-{"id":-1,"isVisible":true,"key":-1,"no":2,"title":"Card","type":"list","webContentListUrl":"https://icitum.github.io/web/soa-card/en/ContentList.json"},
-{"id":-1,"isVisible":true,"key":-1,"no":3,"title":"Insurance","type":"list","webContentListUrl":"https://icitum.github.io/web/soa-insurance/en/ContentList.json"},
-{"id":-1,"isVisible":true,"key":-1,"no":4,"title":"Loan","type":"list","webContentListUrl":"https://icitum.github.io/web/soa-loan/en/ContentList.json"},
-{"id":-1,"isVisible":true,"key":-1,"no":5,"title":"Stock","type":"list","webContentListUrl":"https://icitum.github.io/web/soa-stock/en/ContentList.json"},
-{"id":-1,"isVisible":true,"key":-1,"no":6,"title":"Real-Estate","type":"list","webContentListUrl":"https://icitum.github.io/web/soa-real-estate/en/ContentList.json"}
+{"id":-1,"visibility":"debug","key":-1,"no":1,"title":"Bank","type":"list","webContentListUrl":"https://icitum.github.io/web/soa-bank/en/ContentList.json"},
+{"id":-1,"visibility":"debug","key":-1,"no":2,"title":"Card","type":"list","webContentListUrl":"https://icitum.github.io/web/soa-card/en/ContentList.json"},
+{"id":-1,"visibility":"debug","key":-1,"no":3,"title":"Insurance","type":"list","webContentListUrl":"https://icitum.github.io/web/soa-insurance/en/ContentList.json"},
+{"id":-1,"visibility":"debug","key":-1,"no":4,"title":"Loan","type":"list","webContentListUrl":"https://icitum.github.io/web/soa-loan/en/ContentList.json"},
+{"id":-1,"visibility":"debug","key":-1,"no":5,"title":"Stock","type":"list","webContentListUrl":"https://icitum.github.io/web/soa-stock/en/ContentList.json"},
+{"id":-1,"visibility":"debug","key":-1,"no":6,"title":"Real-Estate","type":"list","webContentListUrl":"https://icitum.github.io/web/soa-real-estate/en/ContentList.json"}
 ]

@@ -1,13 +1,13 @@
 [
-{"footerSize":0.0,"header":"Header","headerBgColor":"#FF4169E1","headerColor":"#FFFFFFFF","headerSize":18.0,"isVisible":true,"no":0,"timestamp":0,"type":"header"},
-{"contentUrl":"https://icitum.github.io/web/soa-bank/test.md","footerSize":0.0,"headerSize":0.0,"iconUrl":"https://icitum.github.io/web/soa-bank/icon.png","isVisible":true,"no":1,"summary":"Summary","timestamp":201908301200,"title":"Test 1","type":"markdown"},
-{"contentUrl":"https://icitum.github.io/web/soa-bank/test.md","footerSize":0.0,"headerSize":0.0,"isVisible":true,"no":2,"summary":"Summary","timestamp":201908301200,"title":"Test 2","type":"markdown"},
-{"bannerImageUrl":"https://icitum.github.io/web/soa-bank/icon.png","bannerTitle":"BannerBannerBannerBannerBannerBannerBannerBannerBannerBannerBannerBannerBanner","bannerUrl":"https://icitum.github.io/web/","footerSize":0.0,"headerSize":0.0,"isVisible":true,"no":0,"timestamp":0,"type":"banner"},
-{"footerSize":0.0,"headerSize":0.0,"isVisible":false,"no":0,"timestamp":0,"type":"separator"},
-{"bannerImageUrl":"https://icitum.github.io/web/soa-bank/icon.png","bannerUrl":"https://icitum.github.io/web/","footerSize":0.0,"headerSize":0.0,"isVisible":true,"no":0,"timestamp":0,"type":"banner"},
-{"bannerImageUrl":"https://icitum.github.io/web/soa-bank/icon.png","bannerUrl":"https://icitum.github.io/web/","footerSize":0.0,"headerSize":0.0,"isVisible":false,"no":0,"timestamp":0,"type":"banner"},
-{"bannerImageUrl":"https://icitum.github.io/web/soa-bank/icon.png","bannerUrl":"https://icitum.github.io/web/","footerSize":0.0,"headerSize":0.0,"isVisible":true,"no":0,"timestamp":0,"type":"banner"},
-{"bannerImageUrl":"https://www.google.co.kr/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png","bannerUrl":"https://www.google.com/","footerSize":0.0,"headerSize":0.0,"isVisible":true,"no":0,"timestamp":0,"type":"banner"},
-{"bannerTitle":"BannerBannerBannerBannerBannerBannerBannerBannerBannerBannerBannerBannerBanner","bannerUrl":"https://icitum.github.io/web/","footerSize":0.0,"headerSize":0.0,"isVisible":true,"no":0,"timestamp":0,"type":"banner"},
-{"footer":"Footer","footerBgColor":"#FF4169E1","footerColor":"#FFFFFFFF","footerSize":18.0,"headerSize":0.0,"isVisible":true,"no":0,"timestamp":0,"type":"footer"}
+{"footerSize":0.0,"header":"Header","headerBgColor":"#FF4169E1","headerColor":"#FFFFFFFF","headerSize":18.0,"visibility":"debug","no":0,"timestamp":0,"type":"header"},
+{"contentUrl":"https://icitum.github.io/web/soa-bank/test.md","footerSize":0.0,"headerSize":0.0,"iconUrl":"https://icitum.github.io/web/soa-bank/icon.png","visibility":"debug","no":1,"summary":"Summary","timestamp":201908301200,"title":"Test 1","type":"markdown"},
+{"contentUrl":"https://icitum.github.io/web/soa-bank/test.md","footerSize":0.0,"headerSize":0.0,"visibility":"debug","no":2,"summary":"Summary","timestamp":201908301200,"title":"Test 2","type":"markdown"},
+{"bannerImageUrl":"https://icitum.github.io/web/soa-bank/icon.png","bannerTitle":"BannerBannerBannerBannerBannerBannerBannerBannerBannerBannerBannerBannerBanner","bannerUrl":"https://icitum.github.io/web/","footerSize":0.0,"headerSize":0.0,"visibility":"debug","no":0,"timestamp":0,"type":"banner"},
+{"footerSize":0.0,"headerSize":0.0,"visibility":"invisible","no":0,"timestamp":0,"type":"separator"},
+{"bannerImageUrl":"https://icitum.github.io/web/soa-bank/icon.png","bannerUrl":"https://icitum.github.io/web/","footerSize":0.0,"headerSize":0.0,"visibility":"debug","no":0,"timestamp":0,"type":"banner"},
+{"bannerImageUrl":"https://icitum.github.io/web/soa-bank/icon.png","bannerUrl":"https://icitum.github.io/web/","footerSize":0.0,"headerSize":0.0,"visibility":"invisible","no":0,"timestamp":0,"type":"banner"},
+{"bannerImageUrl":"https://icitum.github.io/web/soa-bank/icon.png","bannerUrl":"https://icitum.github.io/web/","footerSize":0.0,"headerSize":0.0,"visibility":"debug","no":0,"timestamp":0,"type":"banner"},
+{"bannerImageUrl":"https://www.google.co.kr/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png","bannerUrl":"https://www.google.com/","footerSize":0.0,"headerSize":0.0,"visibility":"debug","no":0,"timestamp":0,"type":"banner"},
+{"bannerTitle":"BannerBannerBannerBannerBannerBannerBannerBannerBannerBannerBannerBannerBanner","bannerUrl":"https://icitum.github.io/web/","footerSize":0.0,"headerSize":0.0,"visibility":"debug","no":0,"timestamp":0,"type":"banner"},
+{"footer":"Footer","footerBgColor":"#FF4169E1","footerColor":"#FFFFFFFF","footerSize":18.0,"headerSize":0.0,"visibility":"debug","no":0,"timestamp":0,"type":"footer"}
 ]
