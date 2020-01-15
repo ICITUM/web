@@ -8,7 +8,7 @@
 "urlPopupUpdateText":"",  
 "urlDynamicTabPageTitles":"https://icitum.github.io/web/soa/[]/DynamicTabPageTitles.json", 
 "urlsDynamicTabPage":["https://icitum.github.io/web/soa/[]/DynamicTabPage.json", "https://icitum.github.io/web/soa/[]/DynamicTabPage.json"], 
-"visibleFinancialTips":"debug",
-"visibleCommunity":"debug",
-"visibleDynamicTabPages":"debug",
+"visibilityFinancialTips":"debug",
+"visibilityCommunity":"debug",
+"visibilityDynamicTabPages":"debug",
 "supportedLanguages":["en", "ko"]}
