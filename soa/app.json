@@ -1,6 +1,6 @@
 {"isSelfFinancialTips":false, "isSelfCommunity":false, "isEnableCafe":false, 
 "urlServer":"https://icitum.github.io/web/", 
-"urlNotice":"https://icitum.github.io/web/soa-notice/[]/ContentList.json", 
+"urlNotice":"https://m.cafe.naver.com/ArticleList.nhn?search.clubid=29339006&search.menuid=25&search.boardtype=L", 
 "urlBoard":"https://m.cafe.naver.com/ArticleList.nhn?search.clubid=29339006&search.menuid=1&search.boardtype=L", 
 "urlQnA":"https://m.cafe.naver.com/ArticleList.nhn?search.clubid=29339006&search.menuid=6&search.boardtype=Q", 
 "urlUpdate":"", 
