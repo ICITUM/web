@@ -1,7 +1,7 @@
 [
 {"footerSize":0.0,"header":"Header","headerBgColor":"#FF4169E1","headerColor":"#FFFFFFFF","headerSize":18.0,"visibility":"debug","no":0,"timestamp":0,"type":"header"},
 {"no":1,"subNo":1,"visibility":"debug","title":"Test 1","summary":"Summary","type":"markdown","timestamp":201908301200,"contentUrl":"https://icitum.github.io/web/soa-bank/test.md","iconUrl":"https://icitum.github.io/web/soa-bank/icon.png"},
-{"no":1,"subNo":0,"visibility":"debug","title":"Á¤±â¿¹±İ°ú Àû±İ","summary":"Á¤±â¿¹±İÀº °¡ÀÔÇÒ ¶§ ³³ÀÔÇÑ ±İ¾×¿¡ ´ëÇØ µ¿ÀÏÇÑ ±â°£°ú ±İ¸®°¡ Àû¿ëµÇ¾î ¸¸±â½ÃÁ¡¿¡","type":"markdown","timestamp":202002121200,"contentUrl":"https://icitum.github.io/web/soa/financial-tips/bank/ko/time-and-installment.md"},
+{"no":1,"subNo":0,"visibility":"debug","title":"ì •ê¸°ì˜ˆê¸ˆê³¼ ì ê¸ˆ","summary":"ì •ê¸°ì˜ˆê¸ˆì€ ê°€ì…í•  ë•Œ ë‚©ì…í•œ ê¸ˆì•¡ì— ëŒ€í•´ ë™ì¼í•œ ê¸°ê°„ê³¼ ê¸ˆë¦¬ê°€ ì ìš©ë˜ì–´ ë§Œê¸°ì‹œì ì—","type":"markdown","timestamp":202002121200,"contentUrl":"https://icitum.github.io/web/soa/financial-tips/bank/ko/time-and-installment.md"},
 {"contentUrl":"https://icitum.github.io/web/soa-bank/test.md","footerSize":0.0,"headerSize":0.0,"visibility":"debug","no":2,"summary":"Summary","timestamp":201908301200,"title":"Test 2","type":"markdown"},
 {"bannerImageUrl":"https://icitum.github.io/web/soa-bank/icon.png","bannerTitle":"BannerBannerBannerBannerBannerBannerBannerBannerBannerBannerBannerBannerBanner","bannerUrl":"https://icitum.github.io/web/","footerSize":0.0,"headerSize":0.0,"visibility":"debug","no":0,"timestamp":0,"type":"banner"},
 {"footerSize":0.0,"headerSize":0.0,"visibility":"gone","no":0,"timestamp":0,"type":"separator"},
