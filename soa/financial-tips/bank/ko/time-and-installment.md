@@ -41,7 +41,7 @@
 | $1                   | $1                   | $1              |
 
 
-[![Open SOA main](https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/ic_launcher.png "SOA main")](soa://soa_main)
+[![Open SOA main](https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/ic_launcher.png "SOA main")](soa://soa_main?asset_id=12345)
 
 
 <img src="https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/ic_launcher.png" alt="SOA main" title="SOA main" width="200"/>
@@ -53,7 +53,10 @@
 <a href="https://play.google.com/store/apps/details?id=com.icitlabs.android.apps.secretaryofassets​​"><img src="https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/google-play.gif" alt="Donwload SOA" title="Donwload SOA" width="200" /></a>
 
 
-[![Open SOA main](./icons/ic_launcher_round.png "SOA main")](soa://soa_main)
+[![Open SOA main](./icons/ic_launcher_round.png "SOA main")](soa://soa_main?asset_id=12345)
 
+
+
+* [![Open SOA main](https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/ic_launcher.png "SOA main")](https://play.google.com/store/apps/details?id=com.icitlabs.android.apps.secretaryofassets)
 
 * [Google Play Store](https://play.google.com/store/apps/details?id=com.icitlabs.android.apps.secretaryofassets)
