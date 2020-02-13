@@ -59,3 +59,9 @@
 [![Donwload SOA](https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/google-play.gif "Donwload SOA")](https://play.google.com/store/apps/details?id=com.icitlabs.android.apps.secretaryofassets)
 
 [![Open SOA main](https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/google-play.gif "SOA main")](https://play.google.com/store/apps/details?id=com.icitlabs.android.apps.secretaryofassets)
+
+
+# Links
+
+* [test.md](https://icitum.github.io/web/soa-bank/test.md))
+
