@@ -40,11 +40,14 @@
 | $10                  | $10                  | $10             |
 | $1                   | $1                   | $1              |
 
+
 [![Open SOA main](https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/ic_launcher.png "SOA main")](soa://soa_main)
+
 
 <img src="https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/ic_launcher.png" alt="SOA main" title="SOA main" width="200"/>
 
-[![Donwload SOA](https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/google-play.gif "Donwload SOA")](https://play.google.com/store/apps/details?id=com.icitlabs.android.apps.secretaryofassets​​)
+
+[![Donwload SOA](https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/google-play.gif "Donwload SOA")](market://details?id=com.icitlabs.android.apps.secretaryofassets​​)
 
 
 <a href="https://play.google.com/store/apps/details?id=com.icitlabs.android.apps.secretaryofassets​​"><img src="https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/google-play.gif" alt="Donwload SOA" title="Donwload SOA" width="200" /></a>
