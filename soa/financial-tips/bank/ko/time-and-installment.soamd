@@ -43,12 +43,24 @@
 
 # [App Links]
 
-[![Open SOA main](https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/ic_launcher.png "SOA main")](soa://soa_main?asset_id=12345)
+* [Loading SOA](soa://loading.icitlabs.com?asset_id=12345)
 
+[![Loading SOA](https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/ic_launcher.png "Loading SOA")](soa://loading.icitlabs.com?asset_id=12345)
 
-<img src="https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/ic_launcher.png" alt="SOA main" title="SOA main" width="200"/>
+<a href="soa://loading.icitlabs.com?asset_id=12345"><img src="https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/ic_launcher.png" alt="Loading SOA" title="Loading SOA" width="200"/></a>
 
-[![Open SOA main](https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/ic_launcher.png "SOA main")](soa://soa_main?asset_id=12345)
+[![Loading SOA](https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/ic_launcher.png "Loading SOA")](soa://loading.icitlabs.com?asset_id=12345)
+
+* [Calculate Deposit Interest](soa://di.calculate.icitlabs.com?asset_id=12345)
+
+* [Calculate Free Deposit Interest](soa://fdi.calculate.icitlabs.com?asset_id=12345)
+
+* [Compare Termination Refund and Deposit](soa://trad.compare.icitlabs.com?asset_id=12345)
+
+* [Compare Pension Savings and Deposit](soa://psad.compare.icitlabs.com?asset_id=12345)
+
+* [Compare Immediate Pension and Deposit](soa://ipad.compare.icitlabs.com?asset_id=12345)
+
 
 # [Google Play]
 
@@ -58,10 +70,10 @@
 
 [![Donwload SOA](https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/google-play.gif "Donwload SOA")](https://play.google.com/store/apps/details?id=com.icitlabs.android.apps.secretaryofassets)
 
-[![Open SOA main](https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/google-play.gif "SOA main")](https://play.google.com/store/apps/details?id=com.icitlabs.android.apps.secretaryofassets)
+[![Donwload SOA](https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/google-play.gif "Donwload SOA")](https://play.google.com/store/apps/details?id=com.icitlabs.android.apps.secretaryofassets)
 
 
-# Links
+# [Links]
 
 * [test.soamd](https://icitum.github.io/web/soa/financial-tips/bank/ko/test.soamd)
 
