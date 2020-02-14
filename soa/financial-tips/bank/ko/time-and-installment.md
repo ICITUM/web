@@ -63,6 +63,21 @@
 
 * [Search Interest Rate](soa://ir.search.icitlabs.com?asset_id=12345)
 
+[Loading SOA](soa://loading.icitlabs.com?asset_id=12345)
+
+[Calculate Deposit Interest](soa://di.calculate.icitlabs.com?asset_id=12345)
+
+[Calculate Free Deposit Interest](soa://fdi.calculate.icitlabs.com?asset_id=12345)
+
+[Compare Termination Refund and Deposit](soa://trad.compare.icitlabs.com?asset_id=12345)
+
+[Compare Pension Savings and Deposit](soa://psad.compare.icitlabs.com?asset_id=12345)
+
+[Compare Immediate Pension and Deposit](soa://ipad.compare.icitlabs.com?asset_id=12345)
+
+[Search Interest Rate](soa://ir.search.icitlabs.com?asset_id=12345)
+
+:b:
 
 # [Google Play]
 
