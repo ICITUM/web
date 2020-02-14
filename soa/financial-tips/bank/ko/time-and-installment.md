@@ -45,11 +45,9 @@
 
 * [Loading SOA](soa://loading.icitlabs.com?asset_id=12345)
 
-[![Loading SOA](https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/ic_launcher.png "Loading SOA")](soa://loading.icitlabs.com?asset_id=12345)
+[![Loading SOA](https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/ic_launcher.png@200px|auto "Loading SOA")](soa://loading.icitlabs.com?asset_id=12345)
 
 <a href="soa://loading.icitlabs.com?asset_id=12345"><img src="https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/ic_launcher.png" alt="Loading SOA" title="Loading SOA" width="200"/></a>
-
-[![Loading SOA](https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/ic_launcher.png "Loading SOA")](soa://loading.icitlabs.com?asset_id=12345)
 
 * [Calculate Deposit Interest](soa://di.calculate.icitlabs.com?asset_id=12345)
 
@@ -93,4 +91,12 @@
 # [Links]
 
 * [test.soamd](https://icitum.github.io/web/soa/financial-tips/bank/ko/test.soamd)
+
+* [markdown-view-sample.soamd](https://icitum.github.io/web/soa/financial-tips/bank/ko/markdown-view-sample.soamd)
+
+[Emoji]
+
+:smile:
+
+:kr:
 
