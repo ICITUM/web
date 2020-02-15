@@ -100,3 +100,13 @@
 
 :kr:
 
+:japanese_goblin:
+:japanese_ogre:
+:turkey:
+:owl:
+:jack_o_lantern:
+:fish::rice_ball:
+:space_invader:
+:flag_br::cupid:
+:telescope:
+
