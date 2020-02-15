@@ -90,7 +90,11 @@
 
 # [Links]
 
-* [test.soamd](https://icitum.github.io/web/soa/financial-tips/bank/ko/test.soamd)
+* [test.soamd](https://icitum.github.io/web/soa/test/test.soamd)
+
+* [test.soamd](https://icitum.github.io/web/soa/test/emoji.soamd)
+
+* [test.soamd](https://icitum.github.io/web/soa/test/emoji-cheat-sheet.soamd)
 
 * [markdown-view-sample.soamd](https://icitum.github.io/web/soa/financial-tips/bank/ko/markdown-view-sample.soamd)
 
