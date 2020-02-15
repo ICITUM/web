@@ -98,7 +98,7 @@
 
 :smile:
 
-:kr:
+:flag_kr:
 
 :japanese_goblin:
 :japanese_ogre:
