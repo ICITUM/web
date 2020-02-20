@@ -45,7 +45,7 @@
 
 * [Loading SOA](soa://loading.icitlabs.com?asset_id=12345)
 
-[![Loading SOA](https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/ic_launcher.png@200px|auto "Loading SOA")](soa://loading.icitlabs.com?asset_id=12345)
+[![Loading SOA](https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/ic_launcher.png@100px|auto "Loading SOA")](soa://loading.icitlabs.com?asset_id=12345)
 
 <a href="soa://loading.icitlabs.com?asset_id=12345"><img src="https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/ic_launcher.png" alt="Loading SOA" title="Loading SOA" width="200"/></a>
 
@@ -96,7 +96,8 @@
 
 * [emoji-cheat-sheet.soamd](https://icitum.github.io/web/soa/test/emoji-cheat-sheet.soamd)
 
-* [markdown-view-sample.soamd](https://icitum.github.io/web/soa/financial-tips/bank/ko/markdown-view-sample.soamd)
+* [markdown-view-sample.soamd](https://icitum.github.io/web/soa/test/markdown-view-sample.soamd)
+
 
 [Emoji]
 
