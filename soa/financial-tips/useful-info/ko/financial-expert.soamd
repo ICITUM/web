@@ -1,0 +1,107 @@
+# 나도 금융 전문가
+
+> 나도 금융 전문가
+
+그럼 정기예금과 적금에 대해 자세히 알아 봅시다.
+
+## 1. 정기예금
+
+    정기예금은 예금 상품 가입 시점에 납입한 금액을 계약 기간동안 유지한 후 만기 때 이자를 합산하여 지급 받는 예금 상품입니다.
+
+    이자 계산 방법은 
+
+
+| Fun                  | With                 | Tables          |
+| :------------------- | -------------------: |:---------------:|
+| left-aligned column  | right-aligned column | centered column |
+| $100                 | $100                 | $100            |
+| $10                  | $10                  | $10             |
+| $1                   | $1                   | $1              |
+
+## 2. 적금
+
+| Fun                  | With                 | Tables          |
+| :------------------- | -------------------: |:---------------:|
+| left-aligned column  | right-aligned column | centered column |
+| $100                 | $100                 | $100            |
+| $10                  | $10                  | $10             |
+| $1                   | $1                   | $1              |
+
+### 2.1 정기적금
+
+| Fun                  | With                 | Tables          |
+| :------------------- | -------------------: |:---------------:|
+| left-aligned column  | right-aligned column | centered column |
+| $100                 | $100                 | $100            |
+| $10                  | $10                  | $10             |
+| $1                   | $1                   | $1              |
+
+### 2.2 자유적금
+
+| Fun                  | With                 | Tables          |
+| :------------------- | -------------------: |:---------------:|
+| left-aligned column  | right-aligned column | centered column |
+| $100                 | $100                 | $100            |
+| $10                  | $10                  | $10             |
+| $1                   | $1                   | $1              |
+
+
+# [App Links]
+
+* [Loading SOA](soa://loading.icitlabs.com?asset_id=12345)
+
+[![Loading SOA](https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/ic_launcher.png@100px|auto "Loading SOA")](soa://loading.icitlabs.com?asset_id=12345)
+
+<a href="soa://loading.icitlabs.com?asset_id=12345"><img src="https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/ic_launcher.png" alt="Loading SOA" title="Loading SOA" width="200"/></a>
+
+* [Calculate Deposit Interest](soa://di.calculate.icitlabs.com?asset_id=12345)
+
+* [Calculate Free Deposit Interest](soa://fdi.calculate.icitlabs.com?asset_id=12345)
+
+* [Compare Termination Refund and Deposit](soa://trad.compare.icitlabs.com?asset_id=12345)
+
+* [Compare Pension Savings and Deposit](soa://psad.compare.icitlabs.com?asset_id=12345)
+
+* [Compare Immediate Pension and Deposit](soa://ipad.compare.icitlabs.com?asset_id=12345)
+
+* [Search Interest Rate](soa://ir.search.icitlabs.com?asset_id=12345)
+
+
+# [Google Play]
+
+* [Google Play Store](https://play.google.com/store/apps/details?id=com.icitlabs.android.apps.secretaryofassets)
+
+<a href="https://play.google.com/store/apps/details?id=com.icitlabs.android.apps.secretaryofassets"><img src="https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/google-play.gif" alt="Donwload SOA" title="Donwload SOA" width="200" /></a>
+
+[![Donwload SOA](https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/google-play.gif "Donwload SOA")](https://play.google.com/store/apps/details?id=com.icitlabs.android.apps.secretaryofassets)
+
+[![Donwload SOA](https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/google-play.gif "Donwload SOA")](https://play.google.com/store/apps/details?id=com.icitlabs.android.apps.secretaryofassets)
+
+
+# [Links]
+
+* [test.soamd](https://icitum.github.io/web/soa/test/test.soamd)
+
+* [emoji.soamd](https://icitum.github.io/web/soa/test/emoji.soamd)
+
+* [emoji-cheat-sheet.soamd](https://icitum.github.io/web/soa/test/emoji-cheat-sheet.soamd)
+
+* [markdown-view-sample.soamd](https://icitum.github.io/web/soa/test/markdown-view-sample.soamd)
+
+
+[Emoji]
+
+:smile:
+
+:flag_kr:
+
+:japanese_goblin:
+:japanese_ogre:
+:turkey:
+:owl:
+:jack_o_lantern:
+:fish::rice_ball:
+:space_invader:
+:flag_br::cupid:
+:telescope:
+
