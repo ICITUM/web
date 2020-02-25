@@ -35,93 +35,39 @@
 [^second]: 기준금리(정책금리)와 달리 수 많은 사람들이 자유롭게 돈을 융통해주는 과정에서 형성되는 금리
         종류: 콜금리, CD금리, CP금리, 회사채금리 및 국고채금리 등
 
-## 2. 저축성예금
+## 2. 직립식예금
+
+> 몫 돈을 마련할 때 필요한 예금상품으로 적금 및 부금 등이 있다.
 
 
 ### 2.1 정기적금
 
+> 매월 일정금액을 정해진 날짜에 납입하고 계약기간애 따른 이자를 만기에 지급받는 상품입니다.
 
 ### 2.2 자유적금
 
+> 정긔적금과 다르게 매월 계약금액 내에서 자유롭게 날짜에 상관없이 납입이 가능한 상품입니다.
 
-## 3. 정기성예금
+### 2.3 상호부금
 
+> 정기적금과 성격이 유사하나 일정한 기간을 정하여 부금을 납입하면 일정 금액을 대출받을 수 있는 권리가 보장되는 상품입니다.
 
+### 2.3 신용부금
 
+> 매월 일정금액을 계약기간 동안 적립하면 만기일에 원금에 이자를 가산하여 지급받을 수 있으며, 가입 즉시 계약금액 범위내에서 대출을 받을 수 있는 적립식 상품으로 제2금융권에서 취급하고 있습니다.
 
+## 3. 거치식예금
 
+### 3.1 정기예금
 
-
-
-| Fun                  | With                 | Tables          |
-| :------------------- | -------------------: |:---------------:|
-| left-aligned column  | right-aligned column | centered column |
-| $100                 | $100                 | $100            |
-| $10                  | $10                  | $10             |
-| $1                   | $1                   | $1              |
-
+> 정기예금은 예금 상품 가입 시점에 납입한 금액을 계약 기간동안 유지한 후 만기 때 이자를 합산하여 지급 받는 예금 상품입니다.
 
 
+* [금리 검색하기 (1금융권/2금융권)](soa://ir.search.icitlabs.com?asset_id=12345)
 
+* [이자 계산하기 (정기적금/정기예금)](soa://di.calculate.icitlabs.com?asset_id=12345)
 
+* [이자 계산하기 (자유적금)](soa://fdi.calculate.icitlabs.com?asset_id=12345)
 
-
-# [App Links]
-
-* [Loading SOA](soa://loading.icitlabs.com?asset_id=12345)
-
-[![Loading SOA](https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/ic_launcher.png@100px|auto "Loading SOA")](soa://loading.icitlabs.com?asset_id=12345)
-
-<a href="soa://loading.icitlabs.com?asset_id=12345"><img src="https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/ic_launcher.png" alt="Loading SOA" title="Loading SOA" width="200"/></a>
-
-* [Calculate Deposit Interest](soa://di.calculate.icitlabs.com?asset_id=12345)
-
-* [Calculate Free Deposit Interest](soa://fdi.calculate.icitlabs.com?asset_id=12345)
-
-* [Compare Termination Refund and Deposit](soa://trad.compare.icitlabs.com?asset_id=12345)
-
-* [Compare Pension Savings and Deposit](soa://psad.compare.icitlabs.com?asset_id=12345)
-
-* [Compare Immediate Pension and Deposit](soa://ipad.compare.icitlabs.com?asset_id=12345)
-
-* [Search Interest Rate](soa://ir.search.icitlabs.com?asset_id=12345)
-
-
-# [Google Play]
-
-* [Google Play Store](https://play.google.com/store/apps/details?id=com.icitlabs.android.apps.secretaryofassets)
-
-<a href="https://play.google.com/store/apps/details?id=com.icitlabs.android.apps.secretaryofassets"><img src="https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/google-play.gif" alt="Donwload SOA" title="Donwload SOA" width="200" /></a>
-
-[![Donwload SOA](https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/google-play.gif "Donwload SOA")](https://play.google.com/store/apps/details?id=com.icitlabs.android.apps.secretaryofassets)
-
-[![Donwload SOA](https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/google-play.gif "Donwload SOA")](https://play.google.com/store/apps/details?id=com.icitlabs.android.apps.secretaryofassets)
-
-
-# [Links]
-
-* [test.soamd](https://icitum.github.io/web/soa/test/test.soamd)
-
-* [emoji.soamd](https://icitum.github.io/web/soa/test/emoji.soamd)
-
-* [emoji-cheat-sheet.soamd](https://icitum.github.io/web/soa/test/emoji-cheat-sheet.soamd)
-
-* [markdown-view-sample.soamd](https://icitum.github.io/web/soa/test/markdown-view-sample.soamd)
-
-
-[Emoji]
-
-:smile:
-
-:flag_kr:
-
-:japanese_goblin:
-:japanese_ogre:
-:turkey:
-:owl:
-:jack_o_lantern:
-:fish::rice_ball:
-:space_invader:
-:flag_br::cupid:
-:telescope:
+* [자산관리비서(SOA) Google Play]](https://play.google.com/store/apps/details?id=com.icitlabs.android.apps.secretaryofassets)
 
