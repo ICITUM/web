@@ -1,0 +1,545 @@
+# 1. 기본(Basic)
+
+## 1.1 제목
+
+# This is heading 1
+## This is heading 2
+### This is heading 3
+#### This is heading 4
+##### This is heading 5
+###### This is heading 6
+
+## 1.2 Alternate Syntax
+
+Heading level 1
+===============
+Heading level 2
+---------------
+
+## 1.3 Paragraphs
+
+I really like using Markdown.
+
+I think I'll use it to format all of my documents from now on.
+
+## 1.4 Line Breaks
+
+This is the first line.  
+And this is the second line.
+
+
+# 2. 강조(Line Breaks)
+
+This text is **bold**.
+
+I just love **bold text**.
+I just love __bold text__.
+Love**is**bold
+Love__is__bold
+
+Italicized text is the *cat's meow*.
+Italicized text is the _cat's meow_.
+A*cat*meow
+
+This text is ***really important***.
+This text is ___really important___.
+This text is __*really important*__.
+This text is **_really important_**.
+
+
+# 3. Blockquotes
+
+> The drought had lasted now for ten million years, and the reign of the terrible lizards had long since ended. Here on the Equator, in the continent which would one day be known as Africa, the battle for existence had reached a new climax of ferocity, and the victor was not yet in sight. In this barren and desiccated land, only the small or the swift or the fierce could flourish, or even hope to survive.
+
+> Dorothy followed her through many of the beautiful rooms in her castle.
+
+
+## 3.1 Blockquotes with Multiple Paragraphs
+
+> Dorothy followed her through many of the beautiful rooms in her castle.
+>
+> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
+
+## 3.2 Nested Blockquotes
+
+> Dorothy followed her through many of the beautiful rooms in her castle.
+>
+>> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
+
+## 3.3 Blockquotes with Other Elements
+
+> #### The quarterly results look great!
+>
+> - Revenue was off the chart.
+> - Profits were higher than ever.
+>
+>  *Everything* is going according to **plan**.
+
+
+# 4. 목록
+
+## 4.1 정렬되지 않은 목록
+
+- List item 1
+- List item 2
+- List item 3
+
+
+- List item 1
+  - List item A
+  - List item B
+- List item 2
+
+
+- First item
+- Second item
+- Third item
+- Fourth item
+
+
+* First item
+* Second item
+* Third item
+* Fourth item
+
+
++ First item
+* Second item
+- Third item
++ Fourth item
+
+
+- First item
+- Second item
+- Third item
+    - Indented item
+    - Indented item
+- Fourth item
+
+## 4.2 정렬된 목록
+
+1. First instruction
+1. Second instruction
+1. Third instruction
+
+
+1. First instruction
+   1. Sub-instruction
+   1. Sub-instruction
+1. Second instruction
+
+
+1. First item
+2. Second item
+3. Third item
+4. Fourth item
+
+
+1. First item
+1. Second item
+1. Third item
+1. Fourth item
+
+
+1. First item
+8. Second item
+3. Third item
+5. Fourth item
+
+
+1. First item
+2. Second item
+3. Third item
+    1. Indented item
+    2. Indented item
+4. Fourth item
+
+## 4.3 Adding Elements in Lists
+
+### 4.3.1 Paragraphs
+
+*   This is the first list item.
+*   Here's the second list item.
+
+    I need to add another paragraph below the second list item.
+
+*   And here's the third list item.
+
+### 4.3.2 Blockquotes
+
+*   This is the first list item.
+*   Here's the second list item.
+
+    > A blockquote would look great below the second list item.
+
+*   And here's the third list item.
+
+### 4.3.3 Code Blocks
+
+1.  Open the file.
+2.  Find the following code block on line 21:
+
+        <html>
+          <head>
+            <title>Test</title>
+          </head>
+
+3.  Update the title to match the name of your website.
+
+
+### 4.3.4 Images
+
+1.  Open the file containing the Linux mascot.
+2.  Marvel at its beauty.
+
+    ![Tux, the Linux mascot](/assets/images/tux.png)
+    ![Tux, the Linux mascot](./assets/images/tux.png)
+    ![Tux, the Linux mascot](/assets/images/tux.png)
+
+3.  Close the file.
+
+# 4.4 Definition Lists
+
+First Term
+: This is the definition of the first term.
+
+Second Term
+: This is one definition of the second term.
+: This is another definition of the second term.
+
+## 4.5 Task Lists
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
+
+# 5. 테이블
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
+| Syntax | Description |
+| --- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+| Fun                  | With                 | Tables          |
+| :------------------- | -------------------: |:---------------:|
+| left-aligned column  | right-aligned column | centered column |
+| $100                 | $100                 | $100            |
+| $10                  | $10                  | $10             |
+| $1                   | $1                   | $1              |
+
+| Fun                  | With                 | Tables          |
+| :--- | ---: |:---:|
+| left-aligned column  | right-aligned column | centered column |
+| $100                 | $100                 | $100            |
+| $10                  | $10                  | $10             |
+| $1                   | $1                   | $1              |
+
+## 5.1 테이블 생성
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+
+## 5.2 Alignment
+
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
+
+## 5.3 Formatting content within your table
+
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
+
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+
+| Name     | Character |
+| ---      | ---       |
+| Backtick | `         |
+| Pipe     | \|        |
+
+# 6. 링크
+
+[link text](file-name.md)
+
+
+# 7. Code
+
+At the command prompt, type `nano`.
+
+## 7.1 Fenced Code Blocks
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+## 7.2 Escaping Backticks
+
+``Use `code` in your Markdown file.``
+
+## 7.3 Code Blocks
+
+    <html>
+      <head>
+      </head>
+    </html>
+
+
+
+# 8. Syntax Highlighting
+
+```json
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+# 9. 각주(Footnotes)
+
+Here's a simple footnote,[^1] and here's a longer one.[^bignote]
+
+[^1]: This is the first footnote.
+
+[^bignote]: Here's one with multiple paragraphs and code.
+
+    Indent paragraphs to include them in the footnote.
+
+    `{ my code }`
+
+    Add as many paragraphs as you like.
+
+
+# 10. Heading ID
+
+### My Great Heading {#custom-id}
+
+
+# 10. Linking to Heading IDs
+
+[Heading IDs](#heading-ids)
+
+
+# 11. Horizontal Rules
+
+***
+
+
+---
+
+
+_________________
+
+
+# 12. Links
+
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
+
+## 12.1 Adding Titles
+
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
+
+## 12.2 URLs and Email Addresses
+
+<https://www.markdownguide.org>
+<fake@example.com>
+
+## 12.3 Formatting Links
+
+I love supporting the **[EFF](https://eff.org)**.
+This is the *[Markdown Guide](https://www.markdownguide.org)*.
+See the section on [`code`](#code).
+
+## 12.4 Reference-style Links
+
+Reference-style links are a special kind of link that make URLs easier to display and read in Markdown. Reference-style links are constructed in two parts: the part you keep inline with your text and the part you store somewhere else in the file to keep the text easy to read.
+
+## 12.5 Formatting the First Part of the Link
+
+The first part of a reference-style link is formatted with two sets of brackets. The first set of brackets surrounds the text that should appear linked. The second set of brackets displays a label used to point to the link you’re storing elsewhere in your document.
+
+Although not required, you can include a space between the first and second set of brackets. The label in the second set of brackets is not case sensitive and can include letters, numbers, spaces, or punctuation.
+
+This means the following example formats are roughly equivalent for the first part of the link:
+
+* [hobbit-hole][1]
+* [hobbit-hole] [1]
+
+## 12.6 Formatting the Second Part of the Link
+
+The second part of a reference-style link is formatted with the following attributes:
+
+1. The label, in brackets, followed immediately by a colon and at least one space (e.g., [label]: ).
+2. The URL for the link, which you can optionally enclose in angle brackets.
+3. The optional title for the link, which you can enclose in double quotes, single quotes, or parentheses.
+
+This means the following example formats are all roughly equivalent for the second part of the link:
+
+* [1]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle
+* [1]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle "Hobbit lifestyles"
+* [1]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle 'Hobbit lifestyles'
+* [1]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle (Hobbit lifestyles)
+* [1]: <https://en.wikipedia.org/wiki/Hobbit#Lifestyle> "Hobbit lifestyles"
+* [1]: <https://en.wikipedia.org/wiki/Hobbit#Lifestyle> 'Hobbit lifestyles'
+* [1]: <https://en.wikipedia.org/wiki/Hobbit#Lifestyle> (Hobbit lifestyles)
+
+You can place this second part of the link anywhere in your Markdown document. Some people place them immediately after the paragraph in which they appear while other people place them at the end of the document (like endnotes or footnotes).
+
+## 12.7 An Example Putting the Parts Together
+
+In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends
+of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down on or to
+eat: it was a [hobbit-hole](https://en.wikipedia.org/wiki/Hobbit#Lifestyle "Hobbit lifestyles"), and that means comfort.
+
+In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends
+of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down on or to
+eat: it was a [hobbit-hole][1], and that means comfort.
+
+[1]: <https://en.wikipedia.org/wiki/Hobbit#Lifestyle> "Hobbit lifestyles"
+
+## 12.8 Images
+
+![Philadelphia's Magic Gardens. This place was so cool!](./assets/images/philly-magic-garden.jpg "Philadelphia's Magic Gardens")
+
+
+[Philadelphia's Magic Gardens. This place was so cool!](./assets/images/philly-magic-garden.jpg "Philadelphia's Magic Gardens")
+
+## 12.9 Linking Images
+
+[![An old rock in the desert](./assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")](https://www.flickr.com/photos/beaurogers/31833779864/in/photolist-Qv3rFw-34mt9F-a9Cmfy-5Ha3Zi-9msKdv-o3hgjr-hWpUte-4WMsJ1-KUQ8N-deshUb-vssBD-6CQci6-8AFCiD-zsJWT-nNfsgB-dPDwZJ-bn9JGn-5HtSXY-6CUhAL-a4UTXB-ugPum-KUPSo-fBLNm-6CUmpy-4WMsc9-8a7D3T-83KJev-6CQ2bK-nNusHJ-a78rQH-nw3NvT-7aq2qf-8wwBso-3nNceh-ugSKP-4mh4kh-bbeeqH-a7biME-q3PtTf-brFpgb-cg38zw-bXMZc-nJPELD-f58Lmo-bXMYG-bz8AAi-bxNtNT-bXMYi-bXMY6-bXMYv)
+
+## 12.10 Automatic URL Linking
+
+http://www.example.com
+
+
+## 12.11 Disabling Automatic URL Linking
+
+`http://www.example.com`
+
+
+
+# 13. 취소선(Strikethrough)
+
+~~The world is flat.~~ We now know that the world is round.
+
+#14. Escaping Characters
+
+\* Without the backslash, this would be a bullet in an unordered list.
+
+
+## 14.1 Characters You Can Escape
+
+| Character	| Name |
+| --- | --- |
+| \	| backslash |
+| `	| backtick (see also escaping backticks in code) |
+| *	| asterisk |
+| _	| underscore |
+| { }	| curly braces |
+| [ ]	| brackets |
+| ( )	| parentheses |
+| #	| pound sign |
+| +	| plus sign |
+| -	| minus sign (hyphen) |
+| .	| dot |
+| !	| exclamation mark |
+| &#124;	| pipe (see also escaping pipe in tables) |
+
+
+# 15. HTML
+
+This **word** is bold. This <em>word</em> is italic.
+
+
+# 16. Limitations
+
+For security reasons, not all Markdown applications support HTML in Markdown documents. When in doubt, check your Markdown application’s documentation. Some applications support only a subset of HTML tags.
+
+Use blank lines to separate block-level HTML elements like <div>, <table>, <pre>, and <p> from the surrounding content. Try not to indent the tags with tabs or spaces — that can interfere with the formatting.
+
+You can’t use Markdown syntax inside block-level HTML tags. For example, <p>italic and **bold**</p> won’t work.
+
+
+# [App Links]
+
+* [Loading SOA](soa://loading.icitlabs.com?asset_id=12345)
+
+[![Loading SOA](https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/ic_launcher.png@100px|auto "Loading SOA")](soa://loading.icitlabs.com?asset_id=12345)
+
+<a href="soa://loading.icitlabs.com?asset_id=12345"><img src="https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/ic_launcher.png" alt="Loading SOA" title="Loading SOA" width="200"/></a>
+
+* [Calculate Deposit Interest](soa://di.calculate.icitlabs.com?asset_id=12345)
+
+* [Calculate Free Deposit Interest](soa://fdi.calculate.icitlabs.com?asset_id=12345)
+
+* [Compare Termination Refund and Deposit](soa://trad.compare.icitlabs.com?asset_id=12345)
+
+* [Compare Pension Savings and Deposit](soa://psad.compare.icitlabs.com?asset_id=12345)
+
+* [Compare Immediate Pension and Deposit](soa://ipad.compare.icitlabs.com?asset_id=12345)
+
+* [Search Interest Rate](soa://ir.search.icitlabs.com?asset_id=12345)
+
+
+# [Google Play]
+
+* [Google Play Store](https://play.google.com/store/apps/details?id=com.icitlabs.android.apps.secretaryofassets)
+
+<a href="https://play.google.com/store/apps/details?id=com.icitlabs.android.apps.secretaryofassets"><img src="https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/google-play.gif" alt="Donwload SOA" title="Donwload SOA" width="200" /></a>
+
+[![Donwload SOA](https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/google-play.gif "Donwload SOA")](https://play.google.com/store/apps/details?id=com.icitlabs.android.apps.secretaryofassets)
+
+[![Donwload SOA](https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/google-play.gif "Donwload SOA")](https://play.google.com/store/apps/details?id=com.icitlabs.android.apps.secretaryofassets)
+
+
+# [Links]
+
+* [test.soamd](https://icitum.github.io/web/soa/test/test.soamd)
+
+* [emoji.soamd](https://icitum.github.io/web/soa/test/emoji.soamd)
+
+* [emoji-cheat-sheet.soamd](https://icitum.github.io/web/soa/test/emoji-cheat-sheet.soamd)
+
+* [markdown-view-sample.soamd](https://icitum.github.io/web/soa/test/markdown-view-sample.soamd)
+
+
+[Emoji]
+
+:smile:
+
+:flag_kr:
+
+:japanese_goblin:
+:japanese_ogre:
+:turkey:
+:owl:
+:jack_o_lantern:
+:fish::rice_ball:
+:space_invader:
+:flag_br::cupid:
+:telescope:
+
