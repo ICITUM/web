@@ -66,9 +66,9 @@
 
 * [금리 검색하기 (은행/저축은행)](soa://ir.search.icitlabs.com)
 
-* [이자 계산하기 (정기적금/정기예금)](soa://di.calculate.icitlabs.com)
-
 ## 5. 이자 계산하기
+
+* [이자 계산하기 (정기적금/정기예금)](soa://di.calculate.icitlabs.com)
 
 * [이자 계산하기 (자유적금)](soa://fdi.calculate.icitlabs.com)
 
