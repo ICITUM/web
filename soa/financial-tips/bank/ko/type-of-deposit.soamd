@@ -20,8 +20,6 @@
 
 ### 1.3 자유저축예금
 
-*[FIFO]: First In First Out
-
 > 전 금융권을 통틀어서 1인 1계좌만 개설이 가능하며 2001년 이후 대부분 은행에서 자유저축예금을 일반저축예금으로 통합하였습니다. 선입선출(FIFO)[^first]을 기반으로 장기간 예치하는 경우에 저축예금보다 고이율을 받을 수 있도록 고안된 예금입니다.
 
 [^first]: 먼저 입금된 예금이 먼저 출금되는 방식
@@ -76,8 +74,6 @@
 
 * [금리 검색하기 (은행/저축은행)](soa://ir.search.icitlabs.com)
 
-<br>
-
 ## 5. 이자 계산하기
 
 * [이자 계산하기 (정기적금/정기예금)](soa://di.calculate.icitlabs.com)
@@ -89,3 +85,6 @@
 [자산관리비서(SOA) Google Play](https://play.google.com/store/apps/details?id=com.icitlabs.android.apps.secretaryofassets)
 <br>
 ![](https://icitum.github.io/web/soa/qrcode/soa_google_play.png@100px|auto)
+
+
+*[FIFO]: First In First Out

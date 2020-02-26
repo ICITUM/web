@@ -1,107 +1,38 @@
 # 보험, 알고 가입하자!
 
-> 보험, 알고 가입하자!
+> 보험 가입할 때 비교 후 가입하세요.<br>
+> 해지환급금, 연금저축 및 즉시연금과 예금상품을 어플리케이션에서 제공하는 기능으로 비교할 수 있습니다.
 
 그럼 정기예금과 적금에 대해 자세히 알아 봅시다.
 
-## 1. 정기예금
+<br>
 
-    정기예금은 예금 상품 가입 시점에 납입한 금액을 계약 기간동안 유지한 후 만기 때 이자를 합산하여 지급 받는 예금 상품입니다.
+## 1. 예금과 비교하기
 
-    이자 계산 방법은 
+### 1.1 해지환급금
 
+> 저축성보험의 해지환급금과 예금을 비교할 수 있습니다.<br>
+> 보험 가입시 SOA의 금융계산기를 활용하여 참조하세요.<br>
+> 납입 금액, 기간 및 금리 등의 정보를 입력하고 계산하면 기간별 정보가 출력됩니다.
 
-| Fun                  | With                 | Tables          |
-| :------------------- | -------------------: |:---------------:|
-| left-aligned column  | right-aligned column | centered column |
-| $100                 | $100                 | $100            |
-| $10                  | $10                  | $10             |
-| $1                   | $1                   | $1              |
+* [비교하러가기](soa://trad.compare.icitlabs.com?asset_id=12345)
 
-## 2. 적금
+### 1.2 연금저축
 
-| Fun                  | With                 | Tables          |
-| :------------------- | -------------------: |:---------------:|
-| left-aligned column  | right-aligned column | centered column |
-| $100                 | $100                 | $100            |
-| $10                  | $10                  | $10             |
-| $1                   | $1                   | $1              |
+> 연금저축 상품 가입시 SOA의 금융계산기를 활용해 보세요.<br>
+> 납입 금액, 기간 및 금리 등의 정보를 입력하고 계산하면 출금 가능한 기간이 출력됩니다.
 
-### 2.1 정기적금
+* [비교하러가기](soa://psad.compare.icitlabs.com?asset_id=12345)
 
-| Fun                  | With                 | Tables          |
-| :------------------- | -------------------: |:---------------:|
-| left-aligned column  | right-aligned column | centered column |
-| $100                 | $100                 | $100            |
-| $10                  | $10                  | $10             |
-| $1                   | $1                   | $1              |
+### 1.3 즉시연금
 
-### 2.2 자유적금
+> 즉시연금 상품 가입시 SOA의 금융계산기를 활용해 보세요.<br>
+> 납입 금액, 기간 및 금리 등의 정보를 입력하고 계산하면 출금 가능한 기간이 출력됩니다.
 
-| Fun                  | With                 | Tables          |
-| :------------------- | -------------------: |:---------------:|
-| left-aligned column  | right-aligned column | centered column |
-| $100                 | $100                 | $100            |
-| $10                  | $10                  | $10             |
-| $1                   | $1                   | $1              |
+* [비교하러가기](soa://ipad.compare.icitlabs.com?asset_id=12345)
 
+<br>
 
-# [App Links]
-
-* [Loading SOA](soa://loading.icitlabs.com?asset_id=12345)
-
-[![Loading SOA](https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/ic_launcher.png@100px|auto "Loading SOA")](soa://loading.icitlabs.com?asset_id=12345)
-
-<a href="soa://loading.icitlabs.com?asset_id=12345"><img src="https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/ic_launcher.png" alt="Loading SOA" title="Loading SOA" width="200"/></a>
-
-* [Calculate Deposit Interest](soa://di.calculate.icitlabs.com?asset_id=12345)
-
-* [Calculate Free Deposit Interest](soa://fdi.calculate.icitlabs.com?asset_id=12345)
-
-* [Compare Termination Refund and Deposit](soa://trad.compare.icitlabs.com?asset_id=12345)
-
-* [Compare Pension Savings and Deposit](soa://psad.compare.icitlabs.com?asset_id=12345)
-
-* [Compare Immediate Pension and Deposit](soa://ipad.compare.icitlabs.com?asset_id=12345)
-
-* [Search Interest Rate](soa://ir.search.icitlabs.com?asset_id=12345)
-
-
-# [Google Play]
-
-* [Google Play Store](https://play.google.com/store/apps/details?id=com.icitlabs.android.apps.secretaryofassets)
-
-<a href="https://play.google.com/store/apps/details?id=com.icitlabs.android.apps.secretaryofassets"><img src="https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/google-play.gif" alt="Donwload SOA" title="Donwload SOA" width="200" /></a>
-
-[![Donwload SOA](https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/google-play.gif "Donwload SOA")](https://play.google.com/store/apps/details?id=com.icitlabs.android.apps.secretaryofassets)
-
-[![Donwload SOA](https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/google-play.gif "Donwload SOA")](https://play.google.com/store/apps/details?id=com.icitlabs.android.apps.secretaryofassets)
-
-
-# [Links]
-
-* [test.soamd](https://icitum.github.io/web/soa/test/test.soamd)
-
-* [emoji.soamd](https://icitum.github.io/web/soa/test/emoji.soamd)
-
-* [emoji-cheat-sheet.soamd](https://icitum.github.io/web/soa/test/emoji-cheat-sheet.soamd)
-
-* [markdown-view-sample.soamd](https://icitum.github.io/web/soa/test/markdown-view-sample.soamd)
-
-
-[Emoji]
-
-:smile:
-
-:flag_kr:
-
-:japanese_goblin:
-:japanese_ogre:
-:turkey:
-:owl:
-:jack_o_lantern:
-:fish::rice_ball:
-:space_invader:
-:flag_br::cupid:
-:telescope:
-
+[자산관리비서(SOA) Google Play](https://play.google.com/store/apps/details?id=com.icitlabs.android.apps.secretaryofassets)
+<br>
+![](https://icitum.github.io/web/soa/qrcode/soa_google_play.png@100px|auto)

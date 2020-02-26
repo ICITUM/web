@@ -4,9 +4,7 @@
 
 <br>
 
-*[SOA]: Secretary Of Assets
-
-## 1. SOA란?
+## 1. SOA 란?
 
 > 자산관리를 자유롭게 할 수 있도록 금융 지식 및 유용한 정보를 제공하여 자산 형성에 도움을 주는 어플리케이션 서비스입니다.<br>
 > 현재 기획부터 제작, 테스트 및 배포까지 <blue>**1인 프로젝트**</blue>로 진행되고 있습니다.
@@ -54,7 +52,7 @@
 <br>
 
 ## 4. 향후 추가 기능
-> 금융팁, 커뮤니티 컨텐츠는 제작되는대로 서버에 업데이트될 예정입니다. (앱에서는 자동 노출)
+> 금융팁, 커뮤니티 컨텐츠는 제작되는대로 서버에 업데이트될 예정입니다. (앱에서는 자동 노출)<br>
 특별한 기능을 기대해 주세요.
 
 <br>
@@ -62,3 +60,6 @@
 [자산관리비서(SOA) Google Play](https://play.google.com/store/apps/details?id=com.icitlabs.android.apps.secretaryofassets)
 <br>
 ![](https://icitum.github.io/web/soa/qrcode/soa_google_play.png@100px|auto)
+
+
+*[SOA]: Secretary Of Assets
