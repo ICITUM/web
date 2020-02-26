@@ -29,6 +29,8 @@
 
 ### 2.1 정기적금
 
+> 매월 일정금액을 정해진 날짜에 납입하고 계약기간애 따른 이자를 만기에 지급받는 상품입니다.
+
 | Fun                  | With                 | Tables          |
 | :------------------- | -------------------: |:---------------:|
 | left-aligned column  | right-aligned column | centered column |
@@ -37,6 +39,8 @@
 | $1                   | $1                   | $1              |
 
 ### 2.2 자유적금
+
+> 정긔적금과 다르게 매월 계약금액 내에서 자유롭게 날짜에 상관없이 납입이 가능한 상품입니다.
 
 | Fun                  | With                 | Tables          |
 | :------------------- | -------------------: |:---------------:|
@@ -48,23 +52,23 @@
 
 # [App Links]
 
-* [Loading SOA](soa://loading.icitlabs.com?asset_id=12345)
+* [Loading SOA](soa://loading.icitlabs.com)
 
-[![Loading SOA](https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/ic_launcher.png@100px|auto "Loading SOA")](soa://loading.icitlabs.com?asset_id=12345)
+[![Loading SOA](https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/ic_launcher.png@100px|auto "Loading SOA")](soa://loading.icitlabs.com)
 
-<a href="soa://loading.icitlabs.com?asset_id=12345"><img src="https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/ic_launcher.png" alt="Loading SOA" title="Loading SOA" width="200"/></a>
+<a href="soa://loading.icitlabs.com"><img src="https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/ic_launcher.png" alt="Loading SOA" title="Loading SOA" width="200"/></a>
 
-* [Calculate Deposit Interest](soa://di.calculate.icitlabs.com?asset_id=12345)
+* [Calculate Deposit Interest](soa://di.calculate.icitlabs.com)
 
-* [Calculate Free Deposit Interest](soa://fdi.calculate.icitlabs.com?asset_id=12345)
+* [Calculate Free Deposit Interest](soa://fdi.calculate.icitlabs.com)
 
-* [Compare Termination Refund and Deposit](soa://trad.compare.icitlabs.com?asset_id=12345)
+* [Compare Termination Refund and Deposit](soa://trad.compare.icitlabs.com)
 
-* [Compare Pension Savings and Deposit](soa://psad.compare.icitlabs.com?asset_id=12345)
+* [Compare Pension Savings and Deposit](soa://psad.compare.icitlabs.com)
 
-* [Compare Immediate Pension and Deposit](soa://ipad.compare.icitlabs.com?asset_id=12345)
+* [Compare Immediate Pension and Deposit](soa://ipad.compare.icitlabs.com)
 
-* [Search Interest Rate](soa://ir.search.icitlabs.com?asset_id=12345)
+* [Search Interest Rate](soa://ir.search.icitlabs.com)
 
 
 # [Google Play]

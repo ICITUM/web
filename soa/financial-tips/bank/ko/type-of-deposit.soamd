@@ -6,7 +6,7 @@
 
 ## 1. 요구불예금
 
-> 수시입출식, 자유입출식 또는 유동성 예금이라 하기도 하며 필요할 때 즉시 돈을 뽑아서 쓸 수 있는 것이 가장 큰 특징입니다.
+> 수시입출식, 자유입출식 또는 유동성 예금이라 하기도 하며 필요할 때 **즉시 인츨**하여 쓸 수 있는 것이 가장 큰 특징입니다.
 
 ### 1.1 보통예금
 
@@ -62,12 +62,17 @@
 
 > 정기예금은 예금 상품 가입 시점에 납입한 금액을 계약 기간동안 유지한 후 만기 때 이자를 합산하여 지급 받는 예금 상품입니다.
 
+## 4. 금리 검색하기
 
-* [금리 검색하기 (은행/저축은행)](soa://ir.search.icitlabs.com?asset_id=12345)
+* [금리 검색하기 (은행/저축은행)](soa://ir.search.icitlabs.com)
 
-* [이자 계산하기 (정기적금/정기예금)](soa://di.calculate.icitlabs.com?asset_id=12345)
+* [이자 계산하기 (정기적금/정기예금)](soa://di.calculate.icitlabs.com)
 
-* [이자 계산하기 (자유적금)](soa://fdi.calculate.icitlabs.com?asset_id=12345)
+## 5. 이자 계산하기
 
-* [자산관리비서(SOA) Google Play](https://play.google.com/store/apps/details?id=com.icitlabs.android.apps.secretaryofassets)
+* [이자 계산하기 (자유적금)](soa://fdi.calculate.icitlabs.com)
+
+
+
+[자산관리비서(SOA) Google Play](https://play.google.com/store/apps/details?id=com.icitlabs.android.apps.secretaryofassets)
 
