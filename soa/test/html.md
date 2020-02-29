@@ -84,7 +84,7 @@
 
 [자산관리비서(SOA) Google Play](https://play.google.com/store/apps/details?id=com.icitlabs.android.apps.secretaryofassets)
 <br>
-![](https://icitum.github.io/web/soa/qrcode/soa_google_play.png width="100" height="auto")
-
+![](https://icitum.github.io/web/soa/qrcode/soa_google_play.png)
+<img src="https://icitum.github.io/web/soa/qrcode/soa_google_play.png" alt="Loading SOA" title="Loading SOA" width="100" height="auto" />
 
 *[FIFO]: First In First Out
