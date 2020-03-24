@@ -22,29 +22,29 @@
 > <br>
 > 금융서비스를 이용하면서 제대로 알지 못하면 수익을 덜 나거나 손실이 발생할 수도 있습니다.
 예금의 경우 만기 때 이자를 받지만 이자가 제대로 계산된 것인지 계산을 해보는 경우는 거의 없을 것입니다. 실제 금융권에서 이자가 과소 지급된 사례가 있습니다.
+> <br><br>
+> [☞ 금리 검색하기](soa://ir.search.icitlabs.com)
 > <br>
-> * [☞ 금리 검색하기](soa://ir.search.icitlabs.com)
+> [☞ 정기예금/정기적금 이자계산하기](soa://di.calculate.icitlabs.com)
 > <br>
-> * [☞ 정기예금/정기적금 이자계산하기](soa://di.calculate.icitlabs.com)
-> <br>
-> * [☞ 자유적금 이자계산하기](soa://fdi.calculate.icitlabs.com)
+> [☞ 자유적금 이자계산하기](soa://fdi.calculate.icitlabs.com)
 
 <br>
 
 > <blue>**[예금과 보험 비교하기]**</blue>
 > <br>
 > 그리고 보험을 가입할 때 비교 대상이 없으니 보험설계사의 말에 의존할 수 밖에 없는 경우가 대부분입니다.
+> <br><br>
+> [☞ 예금과 해지환급금 비교하기](soa://trad.compare.icitlabs.com?asset_id=12345)
 > <br>
-> * [☞ 예금과 해지환급금 비교하기](soa://trad.compare.icitlabs.com?asset_id=12345)
+> [☞ 예금과 개인연금 비교하기](soa://psad.compare.icitlabs.com?asset_id=12345)
 > <br>
-> * [☞ 예금과 개인연금 비교하기](soa://psad.compare.icitlabs.com?asset_id=12345)
-> <br>
-> * [☞ 예금과 즉시연금 비교하기](soa://ipad.compare.icitlabs.com?asset_id=12345)
+> [☞ 예금과 즉시연금 비교하기](soa://ipad.compare.icitlabs.com?asset_id=12345)
 
 <br>
 
 ```
-<blue>**결론은 금융에 대해 아는 만큼 속지 않게 됩니다.**</blue>
+결론은 금융에 대해 아는 만큼 속지 않게 됩니다.
 ```
 
 <br>
