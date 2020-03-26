@@ -8,42 +8,31 @@
 따라서 납입금의 거치기간을 조절하여 정기에금과 유사하게 만들 수 있습니다.
 
 
-그럼 정기예금과 적금에 대해 자세히 알아 봅시다.
+정기예금과 정기적금에 대해 알아보려면 [여기](https://icitum.github.io/web/soa/financial-tips/bank/ko/time-and-installment.soamd)를 열어 보세요.
 
-![](https://icitum.github.io/web/soa/financial-tips/useful-info/ko/images/soa_financial_tips_deposit_installment_and_time.png@100%|auto)
+## 1. 여유자금이 있어 정기에금과 유사하게 납입하고 싶은 경우
 
-
-![](https://icitum.github.io/web/soa/financial-tips/useful-info/ko/images/soa_financial_tips_deposit_installment_and_time.png)
-
-
-## 1. 정기예금
-
-    정기예금은 예금 상품 가입 시점에 납입한 금액을 계약 기간동안 유지한 후 만기 때 이자를 합산하여 지급 받는 예금 상품입니다.
-
-    이자 계산 방법은 
+    가입일에 $${가입월수 \over 2}$$개월분 납입, 만기일 한달 전에 나머지 가입월수/2 개월분 납입
 
 
-| Fun                  | With                 | Tables          |
-| :------------------- | -------------------: |:---------------:|
-| left-aligned column  | right-aligned column | centered column |
-| $100                 | $100                 | $100            |
-| $10                  | $10                  | $10             |
-| $1                   | $1                   | $1              |
+
+## 2. 여유자금이 납입기간 중 생길 가능성이 있을 경우
 
 
-[Emoji]
+## 3. 적립식예금 이자가 거치식예금 이자보다 많아지는 시점
 
-:smile:
 
-:flag_kr:
+## 4. 납입기간 내에 만기이연일 이 발생했을 때 만기해지 방법
 
-:japanese_goblin:
-:japanese_ogre:
-:turkey:
-:owl:
-:jack_o_lantern:
-:fish::rice_ball:
-:space_invader:
-:flag_br::cupid:
-:telescope:
 
+### 4.1. 만기일자에 해지하는 방법
+
+
+### 4.1. 만기이연일자에 해지하는 방법
+
+
+<br>
+
+[자산관리비서(SOA) Google Play](https://play.google.com/store/apps/details?id=com.icitlabs.android.apps.secretaryofassets)
+<br>
+![](https://icitum.github.io/web/soa/qrcode/soa_google_play.png@100px|auto)
