@@ -1,107 +1,54 @@
 # 나도 금융 전문가
 
-> 나도 금융 전문가
+> 금융권의 평균금리를 보면 경기상황을 알 수 있다는 사실을 아시나요?<br><br>
+경기가 좋아질 때는 거치식예금의 평균금리가 적립식예금의 평균금리보다 높아지는 경향이 반대로 경기가 나빠질 때는 거치식예금의 평균금리가 적립식예금의 평균금리보다 대부분 낮아지게 됩니다. 이유는 금융권도 리스크 관리를 하기 때문입니다.<br><br>
+경기가 좋아지기 시작하면 투자가 활발해져서 대출이 늘어나므로 금융권에서도 목돈이 필요하게 됩니다. 따라서 정기예금 가입자를 유치하기 위해 거치식예금의 금리를 높이게 됩니다. 경기가 나빠지는 시점에는 대출이 줄어 들게 되므로 목돈보다 일정한 예대비율 을 유지하기 위해 적립식예금의 가입자를 유치하게 됩니다.<br><br>
+이것만 알아도 경기상황을 예측할 수 있으며 금융 전문가에 입문하셨습니다.<br><br>
+예금과 보험에 관련된 유용한 정보를 알아 보시려면 아래의 페이지를 열어 보세요.<br><br>
+[예금, 알고 가입하자!](https://icitum.github.io/web/soa/financial-tips/useful-info/ko/deposit-notice.soamd)<br>
+[보험, 알고 가입하자!](https://icitum.github.io/web/soa/financial-tips/useful-info/ko/insurance-notice.soamd)
 
-그럼 정기예금과 적금에 대해 자세히 알아 봅시다.
+## 1. 금리 검색하기
 
-## 1. 정기예금
+> 1금융권(시중은행)과 2금융권(저축은행 등)의 금리 확인 및 비교가 가능합니다.<br>
+> SOA의 금리검색 기능을 활용해세요.<br>
 
-    정기예금은 예금 상품 가입 시점에 납입한 금액을 계약 기간동안 유지한 후 만기 때 이자를 합산하여 지급 받는 예금 상품입니다.
+* [금리 검색하러 가기](soa://ir.search.icitlabs.com)
 
-    이자 계산 방법은 
+## 2. 이자 계산하기
 
+> 정기적금과 정기예금 및 자유적금 이자를 계산할 수 있습니다.<br>
+> 예금 가입시 SOA의 금융계산기를 활용하여 참조하세요.<br>
 
-| Fun                  | With                 | Tables          |
-| :------------------- | -------------------: |:---------------:|
-| left-aligned column  | right-aligned column | centered column |
-| $100                 | $100                 | $100            |
-| $10                  | $10                  | $10             |
-| $1                   | $1                   | $1              |
+* [정기적금/정기예금 계산하러 가기](soa://di.calculate.icitlabs.com)
+* [자유적금 계산하러 가기](soa://fdi.calculate.icitlabs.com)
 
-## 2. 적금
+## 3. 예금과 보험 비교하기
 
-| Fun                  | With                 | Tables          |
-| :------------------- | -------------------: |:---------------:|
-| left-aligned column  | right-aligned column | centered column |
-| $100                 | $100                 | $100            |
-| $10                  | $10                  | $10             |
-| $1                   | $1                   | $1              |
+### 3.1 해지환급금
 
-### 2.1 정기적금
+> 저축성보험의 해지환급금과 예금을 비교할 수 있습니다.<br>
+> 보험 가입시 SOA의 금융계산기를 활용하여 참조하세요.<br>
+> 납입 금액, 기간 및 금리 등의 정보를 입력하고 계산하면 기간별 정보가 출력됩니다.
 
-| Fun                  | With                 | Tables          |
-| :------------------- | -------------------: |:---------------:|
-| left-aligned column  | right-aligned column | centered column |
-| $100                 | $100                 | $100            |
-| $10                  | $10                  | $10             |
-| $1                   | $1                   | $1              |
+* [비교하러가기](soa://trad.compare.icitlabs.com?asset_id=12345)
 
-### 2.2 자유적금
+### 3.2 연금저축
 
-| Fun                  | With                 | Tables          |
-| :------------------- | -------------------: |:---------------:|
-| left-aligned column  | right-aligned column | centered column |
-| $100                 | $100                 | $100            |
-| $10                  | $10                  | $10             |
-| $1                   | $1                   | $1              |
+> 연금저축 상품 가입시 SOA의 금융계산기를 활용해 보세요.<br>
+> 납입 금액, 기간 및 금리 등의 정보를 입력하고 계산하면 출금 가능한 기간이 출력됩니다.
 
+* [비교하러가기](soa://psad.compare.icitlabs.com?asset_id=12345)
 
-# [App Links]
+### 3.3 즉시연금
 
-* [Loading SOA](soa://loading.icitlabs.com?asset_id=12345)
+> 즉시연금 상품 가입시 SOA의 금융계산기를 활용해 보세요.<br>
+> 납입 금액, 기간 및 금리 등의 정보를 입력하고 계산하면 출금 가능한 기간이 출력됩니다.
 
-[![Loading SOA](https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/ic_launcher.png@100px|auto "Loading SOA")](soa://loading.icitlabs.com?asset_id=12345)
+* [비교하러가기](soa://ipad.compare.icitlabs.com?asset_id=12345)
 
-<a href="soa://loading.icitlabs.com?asset_id=12345"><img src="https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/ic_launcher.png" alt="Loading SOA" title="Loading SOA" width="200"/></a>
+<br>
 
-* [Calculate Deposit Interest](soa://di.calculate.icitlabs.com?asset_id=12345)
-
-* [Calculate Free Deposit Interest](soa://fdi.calculate.icitlabs.com?asset_id=12345)
-
-* [Compare Termination Refund and Deposit](soa://trad.compare.icitlabs.com?asset_id=12345)
-
-* [Compare Pension Savings and Deposit](soa://psad.compare.icitlabs.com?asset_id=12345)
-
-* [Compare Immediate Pension and Deposit](soa://ipad.compare.icitlabs.com?asset_id=12345)
-
-* [Search Interest Rate](soa://ir.search.icitlabs.com?asset_id=12345)
-
-
-# [Google Play]
-
-* [Google Play Store](https://play.google.com/store/apps/details?id=com.icitlabs.android.apps.secretaryofassets)
-
-<a href="https://play.google.com/store/apps/details?id=com.icitlabs.android.apps.secretaryofassets"><img src="https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/google-play.gif" alt="Donwload SOA" title="Donwload SOA" width="200" /></a>
-
-[![Donwload SOA](https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/google-play.gif "Donwload SOA")](https://play.google.com/store/apps/details?id=com.icitlabs.android.apps.secretaryofassets)
-
-[![Donwload SOA](https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/google-play.gif "Donwload SOA")](https://play.google.com/store/apps/details?id=com.icitlabs.android.apps.secretaryofassets)
-
-
-# [Links]
-
-* [test.soamd](https://icitum.github.io/web/soa/test/test.soamd)
-
-* [emoji.soamd](https://icitum.github.io/web/soa/test/emoji.soamd)
-
-* [emoji-cheat-sheet.soamd](https://icitum.github.io/web/soa/test/emoji-cheat-sheet.soamd)
-
-* [markdown-view-sample.soamd](https://icitum.github.io/web/soa/test/markdown-view-sample.soamd)
-
-
-[Emoji]
-
-:smile:
-
-:flag_kr:
-
-:japanese_goblin:
-:japanese_ogre:
-:turkey:
-:owl:
-:jack_o_lantern:
-:fish::rice_ball:
-:space_invader:
-:flag_br::cupid:
-:telescope:
-
+[자산관리비서(SOA) Google Play](https://play.google.com/store/apps/details?id=com.icitlabs.android.apps.secretaryofassets)
+<br>
+![](https://icitum.github.io/web/soa/qrcode/soa_google_play.png@100px|auto)

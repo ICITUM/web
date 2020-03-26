@@ -1,8 +1,20 @@
 # 예금, 알고 가입하자!
 
-> 예금, 알고 가입하자!
+> 이자계산 방법을 알면 이자 수익이 달라진다?<br><br>
+정기에금과 정기적금의 이자산정방식(5.1.2 이자산정방식 참조)을 알면 예금 상품을 통한 이자수익이 달라집니다.<br><br>
+먼저 정기에금은 가입할 때 납입한 금액에 대해 가입기간에 따른 금리를 적용하여 이자를 계산하게 됩니다. 그리고 정기적금은 매달 납입한 금액에 대해 각각 납입유지기간(만기일 - 납입일)에 따른 금리를 적용하여 이자를 계산하고 합산하면 이자가 계산됩니다.<br><br>
+여기서 정기적금의 특성을 이용해 정기예금과 유사한 방식으로 예금상품에 가입할 수 있습니다. <blue>**정기적금의 금리가 정기에금의 금리보다 높을 때(불경기일 때) 적용해야 유리합니다.**</blue><br><br>
+여기서 말하는 정기적금의 특성은 납입하여 거치되는 개월 수를 맞춰주면 만기계약금을 받을 수 있습니다. 예를 들어, 12개월 정기적금의 경우 첫 번째 납입금은 만기일까지 12개월, 두 번째 납입금은 11개월, …, 마지막 납입금 1개월, 이렇게 총 78개월(12부터 1까지 등차수열의 합)을 거치하는 예금상품입니다.<br>
+따라서 납입금의 거치기간을 조절하여 정기에금과 유사하게 만들 수 있습니다.
+
 
 그럼 정기예금과 적금에 대해 자세히 알아 봅시다.
+
+![](https://icitum.github.io/web/soa/financial-tips/useful-info/ko/images/soa_financial_tips_deposit_installment_and_time.png@100%|100px)
+
+
+![](https://icitum.github.io/web/soa/financial-tips/useful-info/ko/images/soa_financial_tips_deposit_installment_and_time.png)
+
 
 ## 1. 정기예금
 
@@ -17,76 +29,6 @@
 | $100                 | $100                 | $100            |
 | $10                  | $10                  | $10             |
 | $1                   | $1                   | $1              |
-
-## 2. 적금
-
-| Fun                  | With                 | Tables          |
-| :------------------- | -------------------: |:---------------:|
-| left-aligned column  | right-aligned column | centered column |
-| $100                 | $100                 | $100            |
-| $10                  | $10                  | $10             |
-| $1                   | $1                   | $1              |
-
-### 2.1 정기적금
-
-| Fun                  | With                 | Tables          |
-| :------------------- | -------------------: |:---------------:|
-| left-aligned column  | right-aligned column | centered column |
-| $100                 | $100                 | $100            |
-| $10                  | $10                  | $10             |
-| $1                   | $1                   | $1              |
-
-### 2.2 자유적금
-
-| Fun                  | With                 | Tables          |
-| :------------------- | -------------------: |:---------------:|
-| left-aligned column  | right-aligned column | centered column |
-| $100                 | $100                 | $100            |
-| $10                  | $10                  | $10             |
-| $1                   | $1                   | $1              |
-
-
-# [App Links]
-
-* [Loading SOA](soa://loading.icitlabs.com?asset_id=12345)
-
-[![Loading SOA](https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/ic_launcher.png@100px|auto "Loading SOA")](soa://loading.icitlabs.com?asset_id=12345)
-
-<a href="soa://loading.icitlabs.com?asset_id=12345"><img src="https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/ic_launcher.png" alt="Loading SOA" title="Loading SOA" width="200"/></a>
-
-* [Calculate Deposit Interest](soa://di.calculate.icitlabs.com?asset_id=12345)
-
-* [Calculate Free Deposit Interest](soa://fdi.calculate.icitlabs.com?asset_id=12345)
-
-* [Compare Termination Refund and Deposit](soa://trad.compare.icitlabs.com?asset_id=12345)
-
-* [Compare Pension Savings and Deposit](soa://psad.compare.icitlabs.com?asset_id=12345)
-
-* [Compare Immediate Pension and Deposit](soa://ipad.compare.icitlabs.com?asset_id=12345)
-
-* [Search Interest Rate](soa://ir.search.icitlabs.com?asset_id=12345)
-
-
-# [Google Play]
-
-* [Google Play Store](https://play.google.com/store/apps/details?id=com.icitlabs.android.apps.secretaryofassets)
-
-<a href="https://play.google.com/store/apps/details?id=com.icitlabs.android.apps.secretaryofassets"><img src="https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/google-play.gif" alt="Donwload SOA" title="Donwload SOA" width="200" /></a>
-
-[![Donwload SOA](https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/google-play.gif "Donwload SOA")](https://play.google.com/store/apps/details?id=com.icitlabs.android.apps.secretaryofassets)
-
-[![Donwload SOA](https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/google-play.gif "Donwload SOA")](https://play.google.com/store/apps/details?id=com.icitlabs.android.apps.secretaryofassets)
-
-
-# [Links]
-
-* [test.soamd](https://icitum.github.io/web/soa/test/test.soamd)
-
-* [emoji.soamd](https://icitum.github.io/web/soa/test/emoji.soamd)
-
-* [emoji-cheat-sheet.soamd](https://icitum.github.io/web/soa/test/emoji-cheat-sheet.soamd)
-
-* [markdown-view-sample.soamd](https://icitum.github.io/web/soa/test/markdown-view-sample.soamd)
 
 
 [Emoji]
