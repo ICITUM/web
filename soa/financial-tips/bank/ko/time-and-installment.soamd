@@ -1,116 +1,115 @@
-# 정기예금과 정기적금
+# 거치식예금과 적립식예금
 
-> 정기예금은 가입할 때 납입한 금액에 대해 동일한 기간과 금리가 적용되어 만기시점에 납입한 금액과 (세금을 제외한) 이자를 합산하여 지급하며, 정기적금은 정해진 시점에 납입하고 납입기간(만기일 - 납입일)에 대해 금리가 적용되어 만기에 납입한 금액과 이자를 합산하여 지급 받는 금융 상품입니다.
-
-그럼 정기예금과 적금에 대해 자세히 알아 봅시다.
-
-![](https://icitum.github.io/web/soa/financial-tips/useful-info/ko/images/soa_financial_tips_deposit_installment_and_time.png@100%|auto)
-
-## 1. 정기예금
-
-    정기예금은 예금 상품 가입 시점에 납입한 금액을 계약 기간동안 유지한 후 만기 때 이자를 합산하여 지급 받는 예금 상품입니다.
-
-    이자 계산 방법은 
+> 목돈을 운용하기 위해 금융 기관에 정해진 기간 동안 예치하고 만기일에 이자를 받는 예금상품을 거치식예금이라고 하며, 목돈을 모으기 위해 금융 기관에 일정한 기간 동안 정기 또는 자유롭게 납입하여 만기일에 이자를 지급받는 예금상품을 적립식예금이라고 합니다.
 
 
-| Fun                  | With                 | Tables          |
-| :------------------- | -------------------: |:---------------:|
-| left-aligned column  | right-aligned column | centered column |
-| $100                 | $100                 | $100            |
-| $10                  | $10                  | $10             |
-| $1                   | $1                   | $1              |
+## 1. 거치식예금
 
-## 2. 적금
+정기예금 및 통지예금이 있으며, 외화로 거래되는 외화정기예금 및 외화통지예금 상품도 있습니다.
 
-| Fun                  | With                 | Tables          |
-| :------------------- | -------------------: |:---------------:|
-| left-aligned column  | right-aligned column | centered column |
-| $100                 | $100                 | $100            |
-| $10                  | $10                  | $10             |
-| $1                   | $1                   | $1              |
+### 1.1 정기예금
+
+정기예금은 예금 상품 가입 시점에 납입한 금액을 계약 기간동안 유지한 후 만기 때 이자를 합산하여 지급 받는 예금 상품입니다.
+이자계산은 가입할 때 납입한 금액에 대해 동일한 기간과 금리가 적용되어 만기시점에 납입한 금액과 (세금을 제외한) 이자를 합산하여 지급합니다.
+
+### 1.2 통지예금
+
+자금인출시기가 불확실하여 정기예금이나 외화정기예금을 들 수가 없는 경우에 이용할 수 있는 예금상품입니다.
+예치한도나 가입대상에 아무런 제한이 없으며 통지예금 별로 차이가 있지만 적어도 5 영업일 이상이나 7 영업일 이상 예치하고 인출하기 하루 전에 통지하여 주면 실제 예치기간에 해당하는 이자를 지급합니다.
+
+
+## 2. 적립식예금
+
+목돈을 모으기 위해 금융 기관에 일정한 기간 동안 정기 또는 자유롭게 납입하여 만기일에 이자를 지급받는 적금 및 부금 등이 있습니다. 일정 금액을 정기적으로 납입하는 정기적금과 납입 금액과 횟수가 자유로운 자유적금 상품이 있습니다.
 
 ### 2.1 정기적금
 
-> 매월 일정금액을 정해진 날짜에 납입하고 계약기간애 따른 이자를 만기에 지급받는 상품입니다.
+매월 일정금액을 정해진 날짜에 납입하고 계약기간애 따른 이자를 만기에 지급받는 상품입니다.
+이자계산은 납입하고 납입기간(만기일 - 납입일)에 대해 금리가 적용되어 만기에 납입한 금액과 이자를 합산하여 지급합니다.
+정기적금의 경우 만기이연[^1]이 발생할 수 있으며 SPA에서는 이에 따른 만기이연일자[^2]가 자동 계산되어 표시됩니다. 납입내역에서 만기이연일수를 확인할 수 있습니다. 만기이연일수를 줄이려면 만기이연일수만큼 선납하게 되면 상쇄되어 만기이연일 발생을 방지할 수 있습니다.
+만기이연이 발생하여도 계약만기일에 예금을 만기 해지할 수 있지만 ‘만기이연일 – 계약만기일’에 해당하는 이자가 차감되어 지급됩니다. 차감 이자가 적금 금리가 아닌 만기이연에 따른 금리가 적용(많게는 10%이상)되어 차감되므로 주의해야 합니다.
 
-| Fun                  | With                 | Tables          |
-| :------------------- | -------------------: |:---------------:|
-| left-aligned column  | right-aligned column | centered column |
-| $100                 | $100                 | $100            |
-| $10                  | $10                  | $10             |
-| $1                   | $1                   | $1              |
+[^1]: 정기납입 금융상품에서 납입일 이후에 납입을 하면 계약 이자를 충족하기 위한 일수가 부족하게 되어 지연된 일수에 따른 적금만기일이 연기되는 것을 의미합니다
+
+[^2]: 만기이연에 따른 연기된 적금만기일자를 의미합니다. 즉, 정기적금 상품에서 납입 지연이 발생할 경우 만기이자를 받을 수 있는 일자입니다.
 
 ### 2.2 자유적금
 
-> 정긔적금과 다르게 매월 계약금액 내에서 자유롭게 날짜에 상관없이 납입이 가능한 상품입니다.
+일정한 기간 동안 계약금액 내에서 납입 금액과 횟수를 자유롭게 조정이 가능한 예금상품입니다.
 
-| Fun                  | With                 | Tables          |
-| :------------------- | -------------------: |:---------------:|
-| left-aligned column  | right-aligned column | centered column |
-| $100                 | $100                 | $100            |
-| $10                  | $10                  | $10             |
-| $1                   | $1                   | $1              |
+## 3. 이자산정방식
 
+단리식과 복리식으로 구분되며 복리식은 월복리식과 연복리식으로 나뉩니다.
+단리식은 이자지급시점에 해당 금리를 적용하여 단 한번 계산하는 방식입니다.
+월복리식은 1개월마다 해당 금리를 적용하여 이자를 계산하고 다음 이자를 계산할 때 이를 원금에 합산하여 계산하는 방식입니다.
+연복리식은 1년마다 해당 금리를 적용하여 이자를 계산하고 다음 이자를 계산할 때 이를 원금에 합산하여 계산하는 방식입니다.
+따라서, 이자는 월복리 > 연복리 > 단리 순으로 많습니다.
+각각의 산정방식에서 정기예금과 정기적금의 산정식은 차이가 있습니다.
 
-# [App Links]
+* [정기적금/정기예금 계산하러 가기](soa://di.calculate.icitlabs.com)
+* [자유적금 계산하러 가기](soa://fdi.calculate.icitlabs.com)
 
-* [Loading SOA](soa://loading.icitlabs.com)
+### 3.1 단리식
 
-[![Loading SOA](https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/ic_launcher.png@100px|auto "Loading SOA")](soa://loading.icitlabs.com)
+단, x는 단리이율, z는 단리이자, r은 이율, y는 연수, m은 월수, a는 원금
 
-<a href="soa://loading.icitlabs.com"><img src="https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/ic_launcher.png" alt="Loading SOA" title="Loading SOA" width="200"/></a>
+#### 3.1.1 정기예금
 
-* [Calculate Deposit Interest](soa://di.calculate.icitlabs.com)
+[단리이율]
+$$ x = r \times y = r \times {m \over 12} $$
 
-* [Calculate Free Deposit Interest](soa://fdi.calculate.icitlabs.com)
+[단리이자]
+$$ z = a \times r \times y = a \times r \times {m \over 12} $$
 
-* [Compare Termination Refund and Deposit](soa://trad.compare.icitlabs.com)
+#### 3.1.2 정기적금
 
-* [Compare Pension Savings and Deposit](soa://psad.compare.icitlabs.com)
+[단리이율]
+$$ x = (m + 1) × r × {m \over 24} $$
 
-* [Compare Immediate Pension and Deposit](soa://ipad.compare.icitlabs.com)
+[단리이자]
+$$ z = a × (m + 1) × r × {m \over 24} $$
 
-* [Search Interest Rate](soa://ir.search.icitlabs.com)
+### 3.2 복리식
 
+#### 3.2.1 월복릭식
 
-# [Google Play]
+단, x는 월복리이율, z는 월복리이자, r은 이율, y는 연수, m은 월수, a는 원금
 
-* [Google Play Store](https://play.google.com/store/apps/details?id=com.icitlabs.android.apps.secretaryofassets)
+##### 3.2.1.1 정기예금
 
-<a href="https://play.google.com/store/apps/details?id=com.icitlabs.android.apps.secretaryofassets"><img src="https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/google-play.gif" alt="Donwload SOA" title="Donwload SOA" width="200" /></a>
+[월복리이율]
+$$ x = (1 + {r \over 12}) ^ m - 1 $$
+x=(1+r/12)^m-1
+[월복리이자]
+$$ z = a × ((1 + {r \over 12}) ^ m - 1) $$
 
-[![Donwload SOA](https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/google-play.gif "Donwload SOA")](https://play.google.com/store/apps/details?id=com.icitlabs.android.apps.secretaryofassets)
+##### 3.2.1.2 정기적금
 
-[![Donwload SOA](https://icitum.github.io/web/soa/financial-tips/bank/ko/icons/google-play.gif "Donwload SOA")](https://play.google.com/store/apps/details?id=com.icitlabs.android.apps.secretaryofassets)
+[월복리이율]
+$$ x = (1 + {r \over 12}) × {{(1 + {r \over 12}) ^ m - 1 } \over {r \over 12}} - m $$
 
+[월복리이자]
+$$ z = a × ((1 + {r \over 12}) × {{(1 + {r \over 12}) ^ m - 1 } \over {r \over 12}} - m) $$
 
-# [Links]
+#### 3.2.2 연복릭식
 
-* [test.soamd](https://icitum.github.io/web/soa/test/test.soamd)
+단, x는 연복리이율, z는 연복리이자, r은 이율, y는 연수, m은 월수, a는 원금
 
-* [emoji.soamd](https://icitum.github.io/web/soa/test/emoji.soamd)
+##### 3.2.2.1 정기예금
 
-* [emoji-cheat-sheet.soamd](https://icitum.github.io/web/soa/test/emoji-cheat-sheet.soamd)
+[연복리이율]
+$$ x = (1 + r) ^ y - 1 = (1 + r) ^ {m \over 12} - 1 $$
 
-* [markdown-view-sample.soamd](https://icitum.github.io/web/soa/test/markdown-view-sample.soamd)
+[연복리이자]
+$$ z = a × ((1 + r) ^ y - 1) = a × ((1 + r) ^ {m \over 12} - 1) $$
 
+##### 3.2.2.2 정기적금
 
-[Emoji]
+[연복리이율]
+$$ x = (1 + r) ^ {1 \over 12} × {{(1 + r) ^ {m \over 12} - 1} \over {(1 + r) ^ {1 \over 12} - 1}} - m $$
 
-:smile:
-
-:flag_kr:
-
-:japanese_goblin:
-:japanese_ogre:
-:turkey:
-:owl:
-:jack_o_lantern:
-:fish::rice_ball:
-:space_invader:
-:flag_br::cupid:
-:telescope:
-
+[연복리이자]
+$$ z = a × ((1 + r) ^ {1 \over 12} × {{(1 + r) ^ {m \over 12} - 1} \over {(1 + r) ^ {1 \over 12} - 1}} - m) $$
 
 <br>
 
