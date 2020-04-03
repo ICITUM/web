@@ -1,0 +1,13 @@
+# 예산내역
+
+    ‘설정→자산→자산 기본 정보’ 항목인 고정수입, 고정지출 및 비상금 등을 입력하면 월간 및 연간으로 자산과 자동으로 계산되어 예산내역이 생성됩니다.
+
+<br>
+
+![](https://icitum.github.io/web/soa/manual/android/ko/images/soa_asset_status_budget_history.png@100%|auto)
+
+<br>
+
+[자산관리비서(SOA) Google Play](https://play.google.com/store/apps/details?id=com.icitlabs.android.apps.secretaryofassets)
+<br>
+![](https://icitum.github.io/web/soa/qrcode/soa_google_play.png@100px|auto)
