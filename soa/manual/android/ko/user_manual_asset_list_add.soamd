@@ -1,0 +1,19 @@
+# 자산추가
+
+<br>
+
+저축예금, 정기예금, 정기적금 및 자유적금 등 금융상품을 입력할 수 있습니다.
+
+<br>
+
+![](https://icitum.github.io/web/soa/manual/android/ko/images/soa_asset_list_add.png@100%|auto)
+
+<br>
+
+은행명, 계좌명, 계좌번호, 예금종류, 금리종류, 세금종류, 금리 및 가입일 등은 공동으로 필수로 입력해야 하며, 가입금액은 저축예금 및 보통예금을 제외한 나머지는 필수로 입력해야 합니다.
+
+<br>
+
+[자산관리비서(SOA) Google Play](https://play.google.com/store/apps/details?id=com.icitlabs.android.apps.secretaryofassets)
+<br>
+![](https://icitum.github.io/web/soa/qrcode/soa_google_play.png@100px|auto)
