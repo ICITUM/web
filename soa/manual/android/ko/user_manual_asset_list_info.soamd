@@ -1,0 +1,17 @@
+# 자산정보
+
+<br>
+
+![](https://icitum.github.io/web/soa/manual/android/ko/images/soa_asset_list_info.png@100%|auto)
+
+<br>
+
+저축예금, 정기예금, 정기적금 및 자유적금에 대한 자산정보를 보여줍니다. 향후 다른 자산을 추가할 수 있도록 개선할 예정입니다.
+정기적금의 경우 만기이연 이 발생할 수 있으며 이에 따른 만기이연일 이 자동 계산되어 표시됩니다. 납입내역에서 만기이연일수를 확인할 수 있습니다. 만기이연일수를 줄이려면 만기이연일수만큼 선납하게 되면 상쇄되어 만기이연일 발생을 방지할 수 있습니다.
+만기이연이 발생하여도 계약만기일에 예금을 만기 해지할 수 있지만 ‘만기이연일 – 계약만기일’에 해당하는 이자가 차감되어 지급됩니다. 차감 이자가 적금 금리가 아닌 만기이연에 따른 금리가 적용(많게는 10%이상)되어 차감되므로 주의해야 합니다.
+
+<br>
+
+[자산관리비서(SOA) Google Play](https://play.google.com/store/apps/details?id=com.icitlabs.android.apps.secretaryofassets)
+<br>
+![](https://icitum.github.io/web/soa/qrcode/soa_google_play.png@100px|auto)
