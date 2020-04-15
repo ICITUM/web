@@ -9,5 +9,5 @@
 "urlDynamicTabPageTitles":"https://icitum.github.io/web/pp/[]/DynamicTabPageTitles.json", 
 "urlsDynamicTabPage":["https://icitum.github.io/web/pp/[]/DynamicTabPage.json", "https://icitum.github.io/web/pp/[]/DynamicTabPage.json"], 
 "visibilitySamplePage":"debug",
-"visibilityDynamicTabPages":"debug",
+"visibilityDynamicTabPages":"invisible",
 "supportedLanguages":["en", "ko"]}
